@@ -28,7 +28,7 @@ Team: **The North Stars** :smiley:
 * [Rolnick, David, et al. "Tackling climate change with machine learning." arXiv preprint arXiv:1906.05433 (2019).](https://arxiv.org/pdf/1906.05433.pdf)
 * [Milojevic-Dupont, Nikola, and Felix Creutzig. "Machine learning for geographically differentiated climate change mitigation in urban areas." Sustainable Cities and Society (2020): 102526.](https://depositonce.tu-berlin.de/bitstream/11303/12192/3/milojevic-dupont-and-creutzig2020.pdf)
 * [Kontokosta, Constantine E., and Christopher Tull. "A data-driven predictive model of city-scale energy use in buildings." Applied energy 197 (2017): 303-317.](https://par.nsf.gov/servlets/purl/10050421)
-* [Kolter, J., and Joseph Ferreira. "A large-scale study on predicting and contextualizing building energy usage." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 25. No. 1. 2011.](https://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/viewFile/3759/4088)
+* [Kolter, J., and Joseph Ferreira. "A large-scale study on predicting and contextualizing building energy usage." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 25. No. 1. 2011.](https://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/viewFile/3759/4088) :star:
 
 ## Resources for Learning Data Science in Python
 

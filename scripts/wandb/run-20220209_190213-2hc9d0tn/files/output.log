@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "C:\Users\aaimr\Desktop\Dev\wids-2022\scripts\wandb_starter.py", line 9, in <module>
+    wandb.log({"loss": loss})
+NameError: name 'loss' is not defined

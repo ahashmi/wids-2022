@@ -1,0 +1,127 @@
+Column Name,Description,Type
+StateAbbr,State abbreviation,Plain Text
+StateDesc,State name,Plain Text
+CountyName,County name,Plain Text
+CountyFIPS,County FIPS code,Plain Text
+TotalPopulation,2019 Population Estimate,Number
+ACCESS2_CrudePrev,"Model-based estimate for crude prevalence of current lack of health insurance among adults aged 18-64 years, 2019",Number
+ACCESS2_Crude95CI,Estimated confidence interval for crude prevalence of current lack of health insurance among adults aged 18 - 64 years,Plain Text
+ACCESS2_AdjPrev,"Model-based estimate for age-adjusted prevalence of current lack of health insurance among adults aged 18-64 years, 2019",Number
+ACCESS2_Adj95CI,Estimated confidence interval for age-adjusted prevalence of current lack of health insurance among adults aged 18-64 years,Plain Text
+ARTHRITIS_CrudePrev,"Model-based estimate for crude prevalence of arthritis among adults aged >=18 years, 2019",Number
+ARTHRITIS_Crude95CI,Estimated confidence interval for crude prevalence of arthritis among adults aged ?18 years,Plain Text
+ARTHRITIS_AdjPrev,"Model-based estimate for age-adjusted prevalence of arthritis among adults aged >=18 years, 2019",Number
+ARTHRITIS_Adj95CI,Estimated confidence interval for age-adjusted prevalence estimate of arthritis among adults aged ?18 years,Plain Text
+BINGE_CrudePrev,"Model-based estimate for crude prevalence of binge drinking among adults aged >=18 years, 2019",Number
+BINGE_Crude95CI,Estimated confidence interval for crude prevalence of binge drinking among adults aged >=18 years,Plain Text
+BINGE_AdjPrev,"Model-based estimate for age-adjusted prevalence of binge drinking among adults aged >=18 years, 2019",Number
+BINGE_Adj95CI,Estimated confidence interval for age-adjusted prevalence of binge drinking among adults aged ?18 years,Plain Text
+BPHIGH_CrudePrev,"Model-based estimate for crude prevalence of high blood pressure among adults aged >=18 years, 2019",Number
+BPHIGH_Crude95CI,Estimated confidence interval for crude prevalence of high blood pressure among adults aged >=18 years,Plain Text
+BPHIGH_AdjPrev,"Model-based estimate for age-adjusted prevalence of high blood pressure among adults aged >=18 years, 2019",Number
+BPHIGH_Adj95CI,Estimated confidence interval for age-adjusted prevalence of high blood pressure among adults aged >=18 years,Plain Text
+BPMED_CrudePrev,"Model-based estimate for crude prevalence of taking medicine for high blood pressure control among adults aged >=18 years with high blood pressure, 2019",Number
+BPMED_Crude95CI,Estimated confidence interval for crude prevalence of taking medicine for high blood pressure control among adults aged >=18 years with high blood pressure,Plain Text
+BPMED_AdjPrev,"Model-based estimate for age-adjusted prevalence of taking medicine for high blood pressure control among adults aged >=18 years with high blood pressure, 2019",Number
+BPMED_Adj95CI,Estimated confidence interval for age-adjusted prevalence of taking medicine for high blood pressure control among adults aged >=18 years with high blood pressure,Plain Text
+CANCER_CrudePrev,"Model-based estimate for crude prevalence of cancer (excluding skin cancer) among adults aged >=18 years, 2019",Number
+CANCER_Crude95CI,Estimated confidence interval for crude prevalence of cancer (excluding skin cancer) among adults aged >=18 years,Plain Text
+CANCER_AdjPrev,"Model-based estimate for age-adjusted prevalence of cancer (excluding skin cancer) among adults aged >=18 years, 2019",Number
+CANCER_Adj95CI,Estimated confidence interval for age-adjusted prevalence of cancer (excluding skin cancer) among adults aged >=18 years,Plain Text
+CASTHMA_CrudePrev,"Model-based estimate for crude prevalence of current asthma among adults aged >=18 years, 2019",Number
+CASTHMA_Crude95CI,Estimated confidence interval for crude prevalence of current asthma among adults aged >=18 years,Plain Text
+CASTHMA_AdjPrev,"Model-based estimate for age-adjusted prevalence of current asthma among adults aged >=18 years, 2019",Number
+CASTHMA_Adj95CI,Estimated confidence interval for age-adjusted prevalence of current asthma among adults aged >=18 years,Plain Text
+CERVICAL_CrudePrev,"Model-based estimate for crude prevalence of cervical cancer screening among adult women aged 21-65 years, 2019",Number
+CERVICAL_Crude95CI,Estimated confidence interval for crude prevalence of cervical cancer screening among adult women aged 21-65 years,Plain Text
+CERVICAL_AdjPrev,"Model-based estimate for age-adjusted prevalence of cervical cancer screening among adult women aged 21-65 years, 2019",Number
+CERVICAL_Adj95CI,Estimated confidence interval for age-adjusted prevalence of cervical cancer screening among adult women aged 21-65 years,Plain Text
+CHD_CrudePrev,"Model-based estimate for crude prevalence of coronary heart disease among adults aged >=18 years, 2019",Number
+CHD_Crude95CI,Estimated confidence interval for crude prevalence of coronary heart disease among adults aged >=18 years,Plain Text
+CHD_AdjPrev,"Model-based estimate for age-adjusted prevalence of coronary heart disease among adults aged >=18 years, 2019",Number
+CHD_Adj95CI,Estimated confidence interval for age-adjusted prevalence of coronary heart disease among adults aged >=18 years,Plain Text
+CHECKUP_CrudePrev,"Model-based estimate for crude prevalence of visits to doctor for routine checkup within the past year among adults aged >=18 years, 2019",Number
+CHECKUP_Crude95CI,Estimated confidence interval for crude prevalence of visits to doctor for routine checkup within the past year among adults aged >=18 years,Plain Text
+CHECKUP_AdjPrev,"Model-based estimate for age-adjusted prevalence of visits to doctor for routine checkup within the past year among adults aged >=18 years, 2019",Number
+CHECKUP_Adj95CI,Estimated confidence interval for age-adjusted prevalence of visits to doctor for routine checkup within the past year among adults aged >=18 years,Plain Text
+CHOLSCREEN_CrudePrev,"Model-based estimate for crude prevalence of cholesterol screening among adults aged >=18 years, 2019",Number
+CHOLSCREEN_Crude95CI,Estimated confidence interval for crude prevalence of cholesterol screening among adults aged >=18 years,Plain Text
+CHOLSCREEN_AdjPrev,"Model-based estimate for age-adjusted prevalence of cholesterol screening among adults aged >=18 years, 2019",Number
+CHOLSCREEN_Adj95CI,Estimated confidence interval for age-adjusted prevalence of cholesterol screening among adults aged >=18 years,Plain Text
+COLON_SCREEN_CrudePrev,"Model-based estimate for crude prevalence of fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years, 2019",Number
+COLON_SCREEN_Crude95CI,"Estimated confidence interval for crude prevalence of fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",Plain Text
+COLON_SCREEN_AdjPrev,"Model-based estimate for age-adjusted prevalence of fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years, 2019",Number
+COLON_SCREEN_Adj95CI,"Estimated confidence interval for age-adjusted prevalence of fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",Plain Text
+COPD_CrudePrev,"Model-based estimate for crude prevalence of chronic obstructive pulmonary disease among adults aged >=18 years, 2019",Number
+COPD_Crude95CI,Estimated confidence interval for crude prevalence of chronic obstructive pulmonary disease among adults aged >=18 years,Plain Text
+COPD_AdjPrev,"Model-based estimate for age-adjusted prevalence of chronic obstructive pulmonary disease among adults aged >=18 years, 2019",Number
+COPD_Adj95CI,Estimated confidence interval for age-adjusted prevalence of chronic obstructive pulmonary disease among adults aged >=18 years,Plain Text
+COREM_CrudePrev,"Model-based estimate for crude prevalence of older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, 2019",Number
+COREM_Crude95CI,"Estimated confidence interval for crude prevalence of older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",Plain Text
+COREM_AdjPrev,"Model-based estimate for age-adjusted prevalence of older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, 2019",Number
+COREM_Adj95CI,"Estimated confidence interval for age-adjusted prevalence of older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",Plain Text
+COREW_CrudePrev,"Model-based estimate for crude prevalence of older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years, 2019",Number
+COREW_Crude95CI,"Estimated confidence interval for crude prevalence of older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",Plain Text
+COREW_AdjPrev,"Model-based estimate for age-adjusted prevalence of older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years, 2019",Number
+COREW_Adj95CI,"Estimated confidence interval for age-adjusted prevalence of older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",Plain Text
+CSMOKING_CrudePrev,"Model-based estimate for crude prevalence of current smoking among adults aged >=18 years, 2019",Number
+CSMOKING_Crude95CI,Estimated confidence interval for crude prevalence of current smoking among adults aged >=18 years,Plain Text
+CSMOKING_AdjPrev,"Model-based estimate for age-adjusted prevalence of current smoking among adults aged >=18 years, 2019",Number
+CSMOKING_Adj95CI,Estimated confidence interval for age-adjusted prevalence of current smoking among adults aged >=18 years,Plain Text
+DENTAL_CrudePrev,"Model-based estimate for crude prevalence of visits to dentist or dental clinic among adults aged >=18 years, 2019",Number
+DENTAL_Crude95CI,Estimated confidence interval for crude prevalence of visits to dentist or dental clinic among adults aged >=18 years,Plain Text
+DENTAL_AdjPrev,"Model-based estimate for age-adjusted prevalence of visits to dentist or dental clinic among adults aged >=18 years, 2019",Number
+DENTAL_Adj95CI,Estimated confidence interval for age-adjusted prevalence of visits to dentist or dental clinic among adults aged >=18 years,Plain Text
+DEPRESSION_CrudePrev,"Model-based estimate for crude prevalence of depression among adults aged >=18 years, 2019",Number
+DEPRESSION_Crude95CI,"Estimated confidence interval for crude prevalence of depression among adults aged >=18 years, 2019",Plain Text
+DEPRESSION_AdjPrev,"Model-based estimate for age-adjusted prevalence of depression among adults aged >=18 years, 2019",Number
+DEPRESSION_Adj95CI,"Estimated confidence interval for age-adjusted prevalence of depression among adults aged >=18 years, 2019",Plain Text
+DIABETES_CrudePrev,"Model-based estimate for crude prevalence of diagnosed diabetes among adults aged >=18 years, 2019",Number
+DIABETES_Crude95CI,Estimated confidence interval for crude prevalence of diagnosed diabetes among adults aged >=18 years,Plain Text
+DIABETES_AdjPrev,"Model-based estimate for age-adjusted prevalence of diagnosed diabetes among adults aged >=18 years, 2019",Number
+DIABETES_Adj95CI,Estimated confidence interval for age-adjusted prevalence of diagnosed diabetes among adults aged >=18 years,Plain Text
+GHLTH_CrudePrev,"Model-based estimate for crude prevalence of fair or poor health among adults aged >=18 years, 2019",Number
+GHLTH_Crude95CI,Estimated confidence interval for crude prevalence of fair or poor health among adults aged >=18 years,Plain Text
+GHLTH_AdjPrev,"Model-based estimate for age-adjusted prevalence of fair or poor health among adults aged >=18 years, 2019",Number
+GHLTH_Adj95CI,Estimated confidence interval for age-adjusted prevalence of fair or poor health among adults aged >=18 years,Plain Text
+HIGHCHOL_CrudePrev,"Model-based estimate for crude prevalence of high cholesterol among adults aged >=18 years who have been screened in the past 5 years, 2019",Number
+HIGHCHOL_Crude95CI,Estimated confidence interval for crude prevalence of high cholesterol among adults aged >=18 years who have been screened in the past 5 years,Plain Text
+HIGHCHOL_AdjPrev,"Model-based estimate for age-adjusted prevalence of high cholesterol among adults aged >=18 years who have been screened in the past 5 years, 2019",Number
+HIGHCHOL_Adj95CI,Estimated confidence interval for age-adjusted prevalence of high cholesterol among adults aged >=18 years who have been screened in the past 5 years,Plain Text
+KIDNEY_CrudePrev,"Model-based estimate for crude prevalence of chronic kidney disease among adults aged >=18 years, 2019",Number
+KIDNEY_Crude95CI,Estimated confidence interval for crude prevalence of chronic kidney disease among adults aged >=18 years,Plain Text
+KIDNEY_AdjPrev,"Model-based estimate for age-adjusted prevalence of chronic kidney disease among adults aged >=18 years, 2019",Number
+KIDNEY_Adj95CI,Estimated confidence interval for age-adjusted prevalence of chronic kidney disease among adults aged >=18 years,Plain Text
+LPA_CrudePrev,"Model-based estimate for crude prevalence of no leisure-time physical activity among adults aged >=18 years, 2019",Number
+LPA_Crude95CI,Estimated confidence interval for crude prevalence of no leisure-time physical activity among adults aged >=18 years,Plain Text
+LPA_AdjPrev,"Model-based estimate for age-adjusted prevalence of no leisure-time physical activity among adults aged >=18 years, 2019",Number
+LPA_Adj95CI,Estimated confidence interval for age-adjusted prevalence of no leisure-time physical activity among adults aged >=18 years,Plain Text
+MAMMOUSE_CrudePrev,"Model-based estimate for crude prevalence of mammography use among women aged 50-74 years, 2019",Number
+MAMMOUSE_Crude95CI,Estimated confidence interval for crude prevalence of mammography use among women aged 50-74 years,Plain Text
+MAMMOUSE_AdjPrev,"Model-based estimate for age-adjusted prevalence of mammography use among women aged 50-74 years, 2019",Number
+MAMMOUSE_Adj95CI,Estimated confidence interval for age-adjusted prevalence of mammography use among women aged 50-74 years,Plain Text
+MHLTH_CrudePrev,"Model-based estimate for crude prevalence of mental health not good for >=14 days among adults aged >=18 years, 2019",Number
+MHLTH_Crude95CI,Estimated confidence interval for crude prevalence of mental health not good for >=14 days among adults aged >=18 years,Plain Text
+MHLTH_AdjPrev,"Model-based estimate for age-adjusted prevalence of mental health not good for >=14 days among adults aged >=18 years, 2019",Number
+MHLTH_Adj95CI,Estimated confidence interval for age-adjusted prevalence of mental health not good for >=14 days among adults aged >=18 years,Plain Text
+OBESITY_CrudePrev,"Model-based estimate for crude prevalence of obesity among adults aged >=18 years, 2019",Number
+OBESITY_Crude95CI,Estimated confidence interval for crude prevalence of obesity among adults aged >=18 years,Plain Text
+OBESITY_AdjPrev,"Model-based estimate for age-adjusted prevalence of obesity among adults aged >=18 years, 20199",Number
+OBESITY_Adj95CI,Estimated confidence interval for age-adjusted prevalence of obesity among adults aged >=18 years,Plain Text
+PHLTH_CrudePrev,"Model-based estimate for crude prevalence of physical health not good for >=14 days among adults aged >=18 years, 2019",Number
+PHLTH_Crude95CI,Estimated confidence interval for crude prevalence of physical health not good for >=14 days among adults aged >=18 years,Plain Text
+PHLTH_AdjPrev,"Model-based estimate for age-adjusted prevalence of physical health not good for >=14 days among adults aged >=18 years, 2019",Number
+PHLTH_Adj95CI,Estimated confidence interval for age-adjusted prevalence of physical health not good for >=14 days among adults aged >=18 years,Plain Text
+SLEEP_CrudePrev,"Model-based estimate for crude prevalence of sleeping less than 7 hours among adults aged >=18 years, 2019",Number
+SLEEP_Crude95CI,Estimated confidence interval for crude prevalence of sleeping less than 7 hours among adults aged >=18 years,Plain Text
+SLEEP_AdjPrev,"Model-based estimate for age-adjusted prevalence of sleeping less than 7 hours among adults aged >=18 years, 2019",Number
+SLEEP_Adj95CI,Estimated confidence interval for age-adjusted prevalence of sleeping less than 7 hours among adults aged >=18 years,Plain Text
+STROKE_CrudePrev,"Model-based estimate for crude prevalence of stroke among adults aged >=18 years, 2019",Number
+STROKE_Crude95CI,Estimated confidence interval for crude prevalence of stroke among adults aged >=18 years,Plain Text
+STROKE_AdjPrev,"Model-based estimate for age-adjusted prevalence of stroke among adults aged >=18 years, 2019",Number
+STROKE_Adj95CI,Estimated confidence interval for age-adjusted prevalence of stroke among adults aged >=18 years,Plain Text
+TEETHLOST_CrudePrev,"Model-based estimate for crude prevalence of all teeth lost among adults aged >=65 years, 2019",Number
+TEETHLOST_Crude95CI,Estimated confidence interval for crude prevalence of all teeth lost among adults aged >=65 years,Plain Text
+TEETHLOST_AdjPrev,"Model-based estimate for age-adjusted prevalence of all teeth lost among adults aged >=65 years, 2019",Number
+TEETHLOST_Adj95CI,Estimated confidence interval for age-adjusted prevalence of all teeth lost among adults aged >=65 years,Plain Text
+Geolocation,"Latitude, Longitude of city centroid (Format: Point(Longitude Latitude))",

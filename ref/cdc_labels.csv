@@ -1,0 +1,31 @@
+Label,Type,Prevalence,Short Descr
+ARTHRITIS,Outcome,arthritis among adults aged >=18 years,arthritis
+BPHIGH,Outcome,high blood pressure among adults aged >=18 years,high BP
+CANCER,Outcome,cancer (excluding skin cancer) among adults aged >=18 years,cancer
+CASTHMA,Outcome,current asthma among adults aged >=18 years,asthma
+CHD,Outcome,coronary heart disease among adults aged >=18 years,CHD
+COPD,Outcome,chronic obstructive pulmonary disease among adults aged >=18 years,COPD
+DEPRESSION,Outcome,depression among adults aged >=18 years,depression
+DIABETES,Outcome,diagnosed diabetes among adults aged >=18 years,diabetes
+HIGHCHOL,Outcome,high cholesterol among adults aged >=18 years who have been screened in the past 5 years,high cholesterol
+KIDNEY,Outcome,chronic kidney disease among adults aged >=18 years,kidney
+OBESITY,Outcome,obesity among adults aged >=18 years,obesity
+STROKE,Outcome,stroke among adults aged >=18 years,stroke
+TEETHLOST,Outcome,all teeth lost among adults aged >=65 years,teeth lost
+ACCESS2,Prevention,current lack of health insurance among adults aged 18-64 years,insurance
+BPMED,Prevention,taking medicine for high blood pressure control among adults aged >=18 years with high blood pressure,BP medication
+CERVICAL,Prevention,cervical cancer screening among adult women aged 21-65 years,cervical cancer screen
+CHECKUP,Prevention,visits to doctor for routine checkup within the past year among adults aged >=18 years,doctor visit
+CHOLSCREEN,Prevention,cholesterol screening among adults aged >=18 years,cholesterol screen
+COLON_SCREEN,Prevention,"fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",colon cancer screen
+COREM,Prevention,older adult men aged >=65 years who are up to date on a core set of clinical preventive services,core checks men
+COREW,Prevention,older adult women aged >=65 years who are up to date on a core set of clinical preventive services,core checks women
+DENTAL,Prevention,visits to dentist or dental clinic among adults aged >=18 years,dental visit
+MAMMOUSE,Prevention,mammography use among women aged 50-74 years,mammography
+BINGE,Risk Behavior,binge drinking among adults aged >=18 years,drinking
+CSMOKING,Risk Behavior,current smoking among adults aged >=18 years,smoking
+LPA,Risk Behavior,no leisure-time physical activity among adults aged >=18 years,no physical activity
+SLEEP,Risk Behavior,sleeping less than 7 hours among adults aged >=18 years,sleep
+GHLTH,Status,fair or poor health among adults aged >=18 years,poor general health
+MHLTH,Status,mental health not good for >=14 days among adults aged >=18 years,poor mental health
+PHLTH,Status,physical health not good for >=14 days among adults aged >=18 years,poor physical health

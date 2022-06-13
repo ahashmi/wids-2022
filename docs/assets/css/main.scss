@@ -1,0 +1,27 @@
+---
+---
+
+header {
+    margin-top: 15px;
+    padding-bottom: 15px;
+    border-bottom: 2px solid blue;
+}
+
+main {
+    padding-bottom: 30px;
+}
+
+a {
+    text-decoration: none;
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+footer {
+    padding-top: 30px;
+    min-height: 450px;
+    border-top: 2px solid #000;
+    background-color: #333;
+    color: #fff;
+}

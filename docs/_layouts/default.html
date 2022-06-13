@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>WIDS 2022 - {{ title }}</title>
+    <link rel="stylesheet" href="/assets/css/pure.css">
+    <link rel="stylesheet" href="/assets/css/main.css">
+  </head>
+  <body>
+
+    {% include header.html %}
+
+    <div class="pure-g">
+        <div class="pure-u-3-24"></div>
+        <main class="pure-u-18-24">
+            {{ content }}
+        </main>
+        <div class="pure-u-3-24"></div>
+    </div>
+
+    {% include footer.html %}
+
+	<script src="index.js"></script>
+  </body>
+</html>

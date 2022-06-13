@@ -1,0 +1,12 @@
+{
+    "I": ["CT", "MA", "ME", "NH", "RI", "VT"],
+    "II": ["NJ", "NY", "PR"],
+    "III": ["DE", "DC", "MD", "PA", "VA", "WV"],
+    "IV": ["AL", "FL", "GA", "KY", "MS", "NC", "SC", "TN"],
+    "V": ["IL", "IN", "OH", "MI", "MN", "WI"],
+    "VI": ["AR", "LA", "NM", "OK", "TX"],
+    "VII": ["IA", "KS", "MO", "NE"],
+    "VIII": ["CO", "MT", "ND", "SD", "UT", "WY"],
+    "IX": ["AZ", "CA", "HI", "NV"],
+    "X": ["AK", "ID", "OR", "WA"]
+}

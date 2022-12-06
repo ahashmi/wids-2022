@@ -1,0 +1,1775 @@
+{
+    "specs": {
+        "epa_n": 49076,
+        "cdc_n": 116
+    },
+    "counties": {
+        "Alameda": {
+            "fips": "6001",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 18.4,
+                        "BPHIGH": 25.3,
+                        "CANCER": 5.4,
+                        "CASTHMA": 8.3,
+                        "CHD": 4.5,
+                        "COPD": 4.2,
+                        "DIABETES": 9.0,
+                        "HIGHCHOL": 25.5,
+                        "KIDNEY": 2.4,
+                        "OBESITY": 23.2,
+                        "STROKE": 2.5,
+                        "TEETHLOST": 9.4
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 17.5,
+                        "BPHIGH": 25.5,
+                        "CANCER": 5.4,
+                        "CASTHMA": 8.0,
+                        "CHD": 4.2,
+                        "COPD": 3.8,
+                        "DIABETES": 9.1,
+                        "HIGHCHOL": 27.1,
+                        "KIDNEY": 2.5,
+                        "OBESITY": 23.5,
+                        "STROKE": 2.5,
+                        "TEETHLOST": 9.4
+                    }
+                ]
+            },
+            "sites": [
+                "06-001-0007",
+                "06-001-0009",
+                "06-001-0011",
+                "06-001-0013"
+            ]
+        },
+        "Butte": {
+            "fips": "6007",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 25.8,
+                        "BPHIGH": 28.4,
+                        "CANCER": 6.6,
+                        "CASTHMA": 10.1,
+                        "CHD": 6.1,
+                        "COPD": 6.7,
+                        "DIABETES": 9.7,
+                        "HIGHCHOL": 29.0,
+                        "KIDNEY": 2.9,
+                        "OBESITY": 32.9,
+                        "STROKE": 3.2,
+                        "TEETHLOST": 13.4
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 21.5,
+                        "BPHIGH": 28.4,
+                        "CANCER": 6.4,
+                        "CASTHMA": 9.9,
+                        "CHD": 5.6,
+                        "COPD": 6.2,
+                        "DIABETES": 9.5,
+                        "HIGHCHOL": 27.2,
+                        "KIDNEY": 3.0,
+                        "OBESITY": 31.7,
+                        "STROKE": 3.1,
+                        "TEETHLOST": 13.4
+                    }
+                ]
+            },
+            "sites": [
+                "06-007-0008"
+            ]
+        },
+        "Calaveras": {
+            "fips": "6009",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 22.8,
+                        "BPHIGH": 26.5,
+                        "CANCER": 6.5,
+                        "CASTHMA": 9.9,
+                        "CHD": 5.6,
+                        "COPD": 6.2,
+                        "DIABETES": 8.4,
+                        "HIGHCHOL": 28.0,
+                        "KIDNEY": 2.6,
+                        "OBESITY": 26.4,
+                        "STROKE": 2.9,
+                        "TEETHLOST": 12.1
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 22.3,
+                        "BPHIGH": 27.1,
+                        "CANCER": 6.3,
+                        "CASTHMA": 9.5,
+                        "CHD": 5.2,
+                        "COPD": 5.8,
+                        "DIABETES": 8.7,
+                        "HIGHCHOL": 27.1,
+                        "KIDNEY": 2.7,
+                        "OBESITY": 30.1,
+                        "STROKE": 2.9,
+                        "TEETHLOST": 12.1
+                    }
+                ]
+            },
+            "sites": [
+                "06-009-0001"
+            ]
+        },
+        "Colusa": {
+            "fips": "6011",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 22.0,
+                        "BPHIGH": 29.4,
+                        "CANCER": 5.9,
+                        "CASTHMA": 9.7,
+                        "CHD": 6.3,
+                        "COPD": 6.5,
+                        "DIABETES": 11.2,
+                        "HIGHCHOL": 29.3,
+                        "KIDNEY": 3.2,
+                        "OBESITY": 30.8,
+                        "STROKE": 3.3,
+                        "TEETHLOST": 16.1
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 19.3,
+                        "BPHIGH": 27.9,
+                        "CANCER": 5.5,
+                        "CASTHMA": 9.0,
+                        "CHD": 5.6,
+                        "COPD": 5.4,
+                        "DIABETES": 11.8,
+                        "HIGHCHOL": 27.8,
+                        "KIDNEY": 3.2,
+                        "OBESITY": 32.3,
+                        "STROKE": 3.1,
+                        "TEETHLOST": 16.1
+                    }
+                ]
+            },
+            "sites": [
+                "06-011-1002"
+            ]
+        },
+        "Contra Costa": {
+            "fips": "6013",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 20.1,
+                        "BPHIGH": 24.2,
+                        "CANCER": 5.9,
+                        "CASTHMA": 9.0,
+                        "CHD": 4.7,
+                        "COPD": 4.6,
+                        "DIABETES": 8.6,
+                        "HIGHCHOL": 26.1,
+                        "KIDNEY": 2.5,
+                        "OBESITY": 22.8,
+                        "STROKE": 2.5,
+                        "TEETHLOST": 9.2
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 18.2,
+                        "BPHIGH": 24.7,
+                        "CANCER": 5.8,
+                        "CASTHMA": 8.3,
+                        "CHD": 4.4,
+                        "COPD": 4.1,
+                        "DIABETES": 9.4,
+                        "HIGHCHOL": 26.0,
+                        "KIDNEY": 2.5,
+                        "OBESITY": 23.9,
+                        "STROKE": 2.5,
+                        "TEETHLOST": 9.2
+                    }
+                ]
+            },
+            "sites": [
+                "06-013-0002",
+                "06-013-1004"
+            ]
+        },
+        "Fresno": {
+            "fips": "6019",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 21.5,
+                        "BPHIGH": 30.4,
+                        "CANCER": 5.7,
+                        "CASTHMA": 10.2,
+                        "CHD": 6.7,
+                        "COPD": 6.6,
+                        "DIABETES": 12.0,
+                        "HIGHCHOL": 29.0,
+                        "KIDNEY": 3.3,
+                        "OBESITY": 34.0,
+                        "STROKE": 3.5,
+                        "TEETHLOST": 15.9
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 20.3,
+                        "BPHIGH": 29.7,
+                        "CANCER": 5.4,
+                        "CASTHMA": 9.2,
+                        "CHD": 5.8,
+                        "COPD": 5.6,
+                        "DIABETES": 13.5,
+                        "HIGHCHOL": 28.0,
+                        "KIDNEY": 3.5,
+                        "OBESITY": 37.6,
+                        "STROKE": 3.3,
+                        "TEETHLOST": 15.9
+                    }
+                ]
+            },
+            "sites": [
+                "06-019-0011",
+                "06-019-0500",
+                "06-019-2009",
+                "06-019-5001"
+            ]
+        },
+        "Humboldt": {
+            "fips": "6023",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 24.5,
+                        "BPHIGH": 28.0,
+                        "CANCER": 6.5,
+                        "CASTHMA": 10.5,
+                        "CHD": 6.2,
+                        "COPD": 7.0,
+                        "DIABETES": 9.3,
+                        "HIGHCHOL": 28.9,
+                        "KIDNEY": 3.0,
+                        "OBESITY": 26.9,
+                        "STROKE": 3.3,
+                        "TEETHLOST": 13.6
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 22.8,
+                        "BPHIGH": 28.6,
+                        "CANCER": 6.4,
+                        "CASTHMA": 10.1,
+                        "CHD": 5.8,
+                        "COPD": 6.6,
+                        "DIABETES": 9.5,
+                        "HIGHCHOL": 27.1,
+                        "KIDNEY": 3.0,
+                        "OBESITY": 28.0,
+                        "STROKE": 3.3,
+                        "TEETHLOST": 13.6
+                    }
+                ]
+            },
+            "sites": [
+                "06-023-1004"
+            ]
+        },
+        "Imperial": {
+            "fips": "6025",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 21.4,
+                        "BPHIGH": 30.6,
+                        "CANCER": 5.3,
+                        "CASTHMA": 9.3,
+                        "CHD": 6.6,
+                        "COPD": 6.0,
+                        "DIABETES": 14.0,
+                        "HIGHCHOL": 30.1,
+                        "KIDNEY": 3.7,
+                        "OBESITY": 37.0,
+                        "STROKE": 3.5,
+                        "TEETHLOST": 15.4
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 19.1,
+                        "BPHIGH": 30.1,
+                        "CANCER": 4.9,
+                        "CASTHMA": 9.0,
+                        "CHD": 6.0,
+                        "COPD": 5.3,
+                        "DIABETES": 14.6,
+                        "HIGHCHOL": 29.2,
+                        "KIDNEY": 3.9,
+                        "OBESITY": 35.9,
+                        "STROKE": 3.3,
+                        "TEETHLOST": 15.4
+                    }
+                ]
+            },
+            "sites": [
+                "06-025-0005",
+                "06-025-1003"
+            ]
+        },
+        "Inyo": {
+            "fips": "6027",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 22.2,
+                        "BPHIGH": 27.1,
+                        "CANCER": 6.3,
+                        "CASTHMA": 9.9,
+                        "CHD": 5.6,
+                        "COPD": 6.0,
+                        "DIABETES": 8.9,
+                        "HIGHCHOL": 27.8,
+                        "KIDNEY": 2.7,
+                        "OBESITY": 27.5,
+                        "STROKE": 2.9,
+                        "TEETHLOST": 12.3
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 20.0,
+                        "BPHIGH": 26.6,
+                        "CANCER": 6.2,
+                        "CASTHMA": 9.1,
+                        "CHD": 5.1,
+                        "COPD": 5.4,
+                        "DIABETES": 9.2,
+                        "HIGHCHOL": 27.3,
+                        "KIDNEY": 2.7,
+                        "OBESITY": 28.0,
+                        "STROKE": 2.9,
+                        "TEETHLOST": 12.3
+                    }
+                ]
+            },
+            "sites": [
+                "06-027-0002",
+                "06-027-1023"
+            ]
+        },
+        "Kern": {
+            "fips": "6029",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 25.1,
+                        "BPHIGH": 32.3,
+                        "CANCER": 5.8,
+                        "CASTHMA": 10.2,
+                        "CHD": 6.9,
+                        "COPD": 7.2,
+                        "DIABETES": 12.6,
+                        "HIGHCHOL": 30.2,
+                        "KIDNEY": 3.4,
+                        "OBESITY": 33.9,
+                        "STROKE": 3.6,
+                        "TEETHLOST": 17.1
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 20.7,
+                        "BPHIGH": 29.1,
+                        "CANCER": 5.6,
+                        "CASTHMA": 9.3,
+                        "CHD": 6.1,
+                        "COPD": 6.1,
+                        "DIABETES": 13.0,
+                        "HIGHCHOL": 29.4,
+                        "KIDNEY": 3.6,
+                        "OBESITY": 35.5,
+                        "STROKE": 3.5,
+                        "TEETHLOST": 17.1
+                    }
+                ]
+            },
+            "sites": [
+                "06-029-0011",
+                "06-029-0014",
+                "06-029-0019"
+            ]
+        },
+        "Kings": {
+            "fips": "6031",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 22.8,
+                        "BPHIGH": 31.4,
+                        "CANCER": 5.7,
+                        "CASTHMA": 9.7,
+                        "CHD": 6.7,
+                        "COPD": 6.7,
+                        "DIABETES": 12.5,
+                        "HIGHCHOL": 30.2,
+                        "KIDNEY": 3.4,
+                        "OBESITY": 34.6,
+                        "STROKE": 3.6,
+                        "TEETHLOST": 16.5
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 19.8,
+                        "BPHIGH": 29.6,
+                        "CANCER": 5.4,
+                        "CASTHMA": 9.0,
+                        "CHD": 6.0,
+                        "COPD": 5.7,
+                        "DIABETES": 12.9,
+                        "HIGHCHOL": 28.1,
+                        "KIDNEY": 3.5,
+                        "OBESITY": 35.3,
+                        "STROKE": 3.3,
+                        "TEETHLOST": 16.5
+                    }
+                ]
+            },
+            "sites": [
+                "06-031-1004"
+            ]
+        },
+        "Lake": {
+            "fips": "6033",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 25.1,
+                        "BPHIGH": 29.6,
+                        "CANCER": 6.4,
+                        "CASTHMA": 10.5,
+                        "CHD": 6.6,
+                        "COPD": 7.6,
+                        "DIABETES": 10.2,
+                        "HIGHCHOL": 29.0,
+                        "KIDNEY": 3.1,
+                        "OBESITY": 29.8,
+                        "STROKE": 3.5,
+                        "TEETHLOST": 16.7
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 23.1,
+                        "BPHIGH": 29.2,
+                        "CANCER": 6.2,
+                        "CASTHMA": 10.0,
+                        "CHD": 6.1,
+                        "COPD": 6.8,
+                        "DIABETES": 10.5,
+                        "HIGHCHOL": 27.5,
+                        "KIDNEY": 3.2,
+                        "OBESITY": 32.3,
+                        "STROKE": 3.4,
+                        "TEETHLOST": 16.7
+                    }
+                ]
+            },
+            "sites": [
+                "06-033-3002"
+            ]
+        },
+        "Los Angeles": {
+            "fips": "6037",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 18.9,
+                        "BPHIGH": 26.5,
+                        "CANCER": 5.4,
+                        "CASTHMA": 8.4,
+                        "CHD": 5.3,
+                        "COPD": 5.3,
+                        "DIABETES": 11.6,
+                        "HIGHCHOL": 30.0,
+                        "KIDNEY": 2.9,
+                        "OBESITY": 26.6,
+                        "STROKE": 3.0,
+                        "TEETHLOST": 11.0
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 17.1,
+                        "BPHIGH": 26.4,
+                        "CANCER": 5.1,
+                        "CASTHMA": 7.4,
+                        "CHD": 4.9,
+                        "COPD": 4.3,
+                        "DIABETES": 11.1,
+                        "HIGHCHOL": 27.1,
+                        "KIDNEY": 3.1,
+                        "OBESITY": 27.8,
+                        "STROKE": 2.8,
+                        "TEETHLOST": 11.0
+                    }
+                ]
+            },
+            "sites": [
+                "06-037-0002",
+                "06-037-1103",
+                "06-037-1201",
+                "06-037-1302",
+                "06-037-1602",
+                "06-037-2005",
+                "06-037-9033"
+            ]
+        },
+        "Madera": {
+            "fips": "6039",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 24.3,
+                        "BPHIGH": 30.2,
+                        "CANCER": 5.9,
+                        "CASTHMA": 10.1,
+                        "CHD": 6.7,
+                        "COPD": 7.1,
+                        "DIABETES": 12.0,
+                        "HIGHCHOL": 29.6,
+                        "KIDNEY": 3.4,
+                        "OBESITY": 33.1,
+                        "STROKE": 3.6,
+                        "TEETHLOST": 17.8
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 20.6,
+                        "BPHIGH": 28.9,
+                        "CANCER": 5.5,
+                        "CASTHMA": 9.4,
+                        "CHD": 6.0,
+                        "COPD": 6.1,
+                        "DIABETES": 12.7,
+                        "HIGHCHOL": 28.3,
+                        "KIDNEY": 3.5,
+                        "OBESITY": 32.7,
+                        "STROKE": 3.4,
+                        "TEETHLOST": 17.8
+                    }
+                ]
+            },
+            "sites": [
+                "06-039-2010"
+            ]
+        },
+        "Marin": {
+            "fips": "6041",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 19.5,
+                        "BPHIGH": 22.6,
+                        "CANCER": 6.4,
+                        "CASTHMA": 8.6,
+                        "CHD": 4.4,
+                        "COPD": 4.2,
+                        "DIABETES": 6.9,
+                        "HIGHCHOL": 26.7,
+                        "KIDNEY": 2.3,
+                        "OBESITY": 21.0,
+                        "STROKE": 2.2,
+                        "TEETHLOST": 7.2
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 18.6,
+                        "BPHIGH": 22.3,
+                        "CANCER": 6.2,
+                        "CASTHMA": 8.3,
+                        "CHD": 4.1,
+                        "COPD": 3.9,
+                        "DIABETES": 7.1,
+                        "HIGHCHOL": 25.4,
+                        "KIDNEY": 2.3,
+                        "OBESITY": 22.5,
+                        "STROKE": 2.2,
+                        "TEETHLOST": 7.2
+                    }
+                ]
+            },
+            "sites": [
+                "06-041-0001"
+            ]
+        },
+        "Merced": {
+            "fips": "6047",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 24.5,
+                        "BPHIGH": 31.4,
+                        "CANCER": 5.8,
+                        "CASTHMA": 10.0,
+                        "CHD": 6.9,
+                        "COPD": 7.1,
+                        "DIABETES": 13.2,
+                        "HIGHCHOL": 30.2,
+                        "KIDNEY": 3.5,
+                        "OBESITY": 37.0,
+                        "STROKE": 3.7,
+                        "TEETHLOST": 18.1
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 19.7,
+                        "BPHIGH": 29.5,
+                        "CANCER": 5.3,
+                        "CASTHMA": 9.3,
+                        "CHD": 6.1,
+                        "COPD": 5.9,
+                        "DIABETES": 13.2,
+                        "HIGHCHOL": 28.4,
+                        "KIDNEY": 3.6,
+                        "OBESITY": 34.6,
+                        "STROKE": 3.4,
+                        "TEETHLOST": 18.1
+                    }
+                ]
+            },
+            "sites": [
+                "06-047-0003"
+            ]
+        },
+        "Monterey": {
+            "fips": "6053",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 21.6,
+                        "BPHIGH": 28.8,
+                        "CANCER": 5.7,
+                        "CASTHMA": 9.2,
+                        "CHD": 6.0,
+                        "COPD": 6.0,
+                        "DIABETES": 10.8,
+                        "HIGHCHOL": 29.6,
+                        "KIDNEY": 3.1,
+                        "OBESITY": 28.4,
+                        "STROKE": 3.2,
+                        "TEETHLOST": 14.7
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 18.4,
+                        "BPHIGH": 26.6,
+                        "CANCER": 5.4,
+                        "CASTHMA": 8.7,
+                        "CHD": 5.4,
+                        "COPD": 5.2,
+                        "DIABETES": 11.6,
+                        "HIGHCHOL": 26.4,
+                        "KIDNEY": 3.2,
+                        "OBESITY": 32.1,
+                        "STROKE": 3.0,
+                        "TEETHLOST": 14.7
+                    }
+                ]
+            },
+            "sites": [
+                "06-053-0002",
+                "06-053-0008",
+                "06-053-1003"
+            ]
+        },
+        "Napa": {
+            "fips": "6055",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 20.6,
+                        "BPHIGH": 26.5,
+                        "CANCER": 6.1,
+                        "CASTHMA": 8.8,
+                        "CHD": 5.0,
+                        "COPD": 5.0,
+                        "DIABETES": 8.5,
+                        "HIGHCHOL": 28.0,
+                        "KIDNEY": 2.5,
+                        "OBESITY": 25.3,
+                        "STROKE": 2.6,
+                        "TEETHLOST": 10.3
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 18.5,
+                        "BPHIGH": 25.1,
+                        "CANCER": 5.8,
+                        "CASTHMA": 8.4,
+                        "CHD": 4.5,
+                        "COPD": 4.4,
+                        "DIABETES": 9.1,
+                        "HIGHCHOL": 27.1,
+                        "KIDNEY": 2.6,
+                        "OBESITY": 28.6,
+                        "STROKE": 2.5,
+                        "TEETHLOST": 10.3
+                    }
+                ]
+            },
+            "sites": [
+                "06-055-0004"
+            ]
+        },
+        "Nevada": {
+            "fips": "6057",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 22.3,
+                        "BPHIGH": 24.9,
+                        "CANCER": 6.6,
+                        "CASTHMA": 9.4,
+                        "CHD": 5.3,
+                        "COPD": 5.6,
+                        "DIABETES": 7.5,
+                        "HIGHCHOL": 28.0,
+                        "KIDNEY": 2.5,
+                        "OBESITY": 21.9,
+                        "STROKE": 2.6,
+                        "TEETHLOST": 9.6
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 20.5,
+                        "BPHIGH": 25.2,
+                        "CANCER": 6.5,
+                        "CASTHMA": 9.2,
+                        "CHD": 4.9,
+                        "COPD": 5.2,
+                        "DIABETES": 7.8,
+                        "HIGHCHOL": 28.2,
+                        "KIDNEY": 2.5,
+                        "OBESITY": 25.1,
+                        "STROKE": 2.6,
+                        "TEETHLOST": 9.6
+                    }
+                ]
+            },
+            "sites": [
+                "06-057-0005"
+            ]
+        },
+        "Orange": {
+            "fips": "6059",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 18.8,
+                        "BPHIGH": 26.8,
+                        "CANCER": 5.7,
+                        "CASTHMA": 8.1,
+                        "CHD": 5.1,
+                        "COPD": 4.7,
+                        "DIABETES": 9.3,
+                        "HIGHCHOL": 30.6,
+                        "KIDNEY": 2.6,
+                        "OBESITY": 21.6,
+                        "STROKE": 2.6,
+                        "TEETHLOST": 8.9
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 17.8,
+                        "BPHIGH": 25.2,
+                        "CANCER": 5.7,
+                        "CASTHMA": 7.6,
+                        "CHD": 4.4,
+                        "COPD": 4.1,
+                        "DIABETES": 10.2,
+                        "HIGHCHOL": 29.6,
+                        "KIDNEY": 2.7,
+                        "OBESITY": 24.5,
+                        "STROKE": 2.5,
+                        "TEETHLOST": 8.9
+                    }
+                ]
+            },
+            "sites": [
+                "06-059-0007",
+                "06-059-2022"
+            ]
+        },
+        "Placer": {
+            "fips": "6061",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 21.6,
+                        "BPHIGH": 25.5,
+                        "CANCER": 6.4,
+                        "CASTHMA": 9.1,
+                        "CHD": 4.6,
+                        "COPD": 4.8,
+                        "DIABETES": 7.3,
+                        "HIGHCHOL": 27.6,
+                        "KIDNEY": 2.3,
+                        "OBESITY": 21.6,
+                        "STROKE": 2.4,
+                        "TEETHLOST": 8.5
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 19.3,
+                        "BPHIGH": 24.0,
+                        "CANCER": 6.2,
+                        "CASTHMA": 8.6,
+                        "CHD": 4.4,
+                        "COPD": 4.4,
+                        "DIABETES": 7.6,
+                        "HIGHCHOL": 27.8,
+                        "KIDNEY": 2.4,
+                        "OBESITY": 24.6,
+                        "STROKE": 2.4,
+                        "TEETHLOST": 8.5
+                    }
+                ]
+            },
+            "sites": [
+                "06-061-0003",
+                "06-061-0006"
+            ]
+        },
+        "Riverside": {
+            "fips": "6065",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 21.3,
+                        "BPHIGH": 29.6,
+                        "CANCER": 5.6,
+                        "CASTHMA": 9.2,
+                        "CHD": 5.6,
+                        "COPD": 5.7,
+                        "DIABETES": 11.0,
+                        "HIGHCHOL": 29.8,
+                        "KIDNEY": 2.9,
+                        "OBESITY": 29.0,
+                        "STROKE": 3.1,
+                        "TEETHLOST": 13.7
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 19.9,
+                        "BPHIGH": 29.0,
+                        "CANCER": 5.4,
+                        "CASTHMA": 8.3,
+                        "CHD": 5.2,
+                        "COPD": 5.1,
+                        "DIABETES": 11.1,
+                        "HIGHCHOL": 29.1,
+                        "KIDNEY": 3.1,
+                        "OBESITY": 33.4,
+                        "STROKE": 2.9,
+                        "TEETHLOST": 13.7
+                    }
+                ]
+            },
+            "sites": [
+                "06-065-0009",
+                "06-065-0010",
+                "06-065-0500",
+                "06-065-1016",
+                "06-065-2002",
+                "06-065-5001",
+                "06-065-8001",
+                "06-065-8005"
+            ]
+        },
+        "Sacramento": {
+            "fips": "6067",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 22.3,
+                        "BPHIGH": 30.2,
+                        "CANCER": 5.9,
+                        "CASTHMA": 9.9,
+                        "CHD": 5.4,
+                        "COPD": 5.6,
+                        "DIABETES": 9.9,
+                        "HIGHCHOL": 27.8,
+                        "KIDNEY": 2.8,
+                        "OBESITY": 28.2,
+                        "STROKE": 3.0,
+                        "TEETHLOST": 12.5
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 20.2,
+                        "BPHIGH": 26.7,
+                        "CANCER": 5.9,
+                        "CASTHMA": 9.8,
+                        "CHD": 5.0,
+                        "COPD": 5.2,
+                        "DIABETES": 10.3,
+                        "HIGHCHOL": 26.5,
+                        "KIDNEY": 2.9,
+                        "OBESITY": 27.8,
+                        "STROKE": 3.0,
+                        "TEETHLOST": 12.5
+                    }
+                ]
+            },
+            "sites": [
+                "06-067-0006",
+                "06-067-0010",
+                "06-067-0012",
+                "06-067-5003"
+            ]
+        },
+        "San Benito": {
+            "fips": "6069",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 20.6,
+                        "BPHIGH": 27.2,
+                        "CANCER": 5.8,
+                        "CASTHMA": 9.0,
+                        "CHD": 5.4,
+                        "COPD": 5.3,
+                        "DIABETES": 10.1,
+                        "HIGHCHOL": 28.4,
+                        "KIDNEY": 2.8,
+                        "OBESITY": 28.3,
+                        "STROKE": 2.8,
+                        "TEETHLOST": 11.7
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 18.0,
+                        "BPHIGH": 26.5,
+                        "CANCER": 5.4,
+                        "CASTHMA": 8.3,
+                        "CHD": 4.9,
+                        "COPD": 4.5,
+                        "DIABETES": 10.9,
+                        "HIGHCHOL": 27.4,
+                        "KIDNEY": 3.0,
+                        "OBESITY": 30.1,
+                        "STROKE": 2.7,
+                        "TEETHLOST": 11.7
+                    }
+                ]
+            },
+            "sites": [
+                "06-069-0002"
+            ]
+        },
+        "San Bernardino": {
+            "fips": "6071",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 23.9,
+                        "BPHIGH": 29.1,
+                        "CANCER": 5.5,
+                        "CASTHMA": 9.5,
+                        "CHD": 6.0,
+                        "COPD": 5.9,
+                        "DIABETES": 12.8,
+                        "HIGHCHOL": 27.7,
+                        "KIDNEY": 3.2,
+                        "OBESITY": 34.9,
+                        "STROKE": 3.2,
+                        "TEETHLOST": 14.8
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 20.4,
+                        "BPHIGH": 29.4,
+                        "CANCER": 5.3,
+                        "CASTHMA": 8.9,
+                        "CHD": 5.3,
+                        "COPD": 5.1,
+                        "DIABETES": 11.9,
+                        "HIGHCHOL": 29.3,
+                        "KIDNEY": 3.2,
+                        "OBESITY": 33.3,
+                        "STROKE": 3.0,
+                        "TEETHLOST": 14.8
+                    }
+                ]
+            },
+            "sites": [
+                "06-071-0306",
+                "06-071-2002",
+                "06-071-9004"
+            ]
+        },
+        "San Diego": {
+            "fips": "6073",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 20.7,
+                        "BPHIGH": 28.0,
+                        "CANCER": 5.9,
+                        "CASTHMA": 8.6,
+                        "CHD": 5.2,
+                        "COPD": 4.9,
+                        "DIABETES": 9.3,
+                        "HIGHCHOL": 27.8,
+                        "KIDNEY": 2.6,
+                        "OBESITY": 24.4,
+                        "STROKE": 2.7,
+                        "TEETHLOST": 10.2
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 18.9,
+                        "BPHIGH": 27.1,
+                        "CANCER": 5.5,
+                        "CASTHMA": 7.9,
+                        "CHD": 4.6,
+                        "COPD": 4.6,
+                        "DIABETES": 9.4,
+                        "HIGHCHOL": 27.3,
+                        "KIDNEY": 2.8,
+                        "OBESITY": 24.1,
+                        "STROKE": 2.6,
+                        "TEETHLOST": 10.2
+                    }
+                ]
+            },
+            "sites": [
+                "06-073-0001",
+                "06-073-1016",
+                "06-073-1022",
+                "06-073-1201",
+                "06-073-1026"
+            ]
+        },
+        "San Francisco": {
+            "fips": "6075",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 16.6,
+                        "BPHIGH": 24.7,
+                        "CANCER": 5.3,
+                        "CASTHMA": 7.7,
+                        "CHD": 4.5,
+                        "COPD": 3.8,
+                        "DIABETES": 8.8,
+                        "HIGHCHOL": 27.3,
+                        "KIDNEY": 2.3,
+                        "OBESITY": 16.8,
+                        "STROKE": 2.3,
+                        "TEETHLOST": 7.6
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 16.6,
+                        "BPHIGH": 24.2,
+                        "CANCER": 5.2,
+                        "CASTHMA": 7.5,
+                        "CHD": 4.0,
+                        "COPD": 3.6,
+                        "DIABETES": 9.0,
+                        "HIGHCHOL": 26.7,
+                        "KIDNEY": 2.4,
+                        "OBESITY": 16.4,
+                        "STROKE": 2.3,
+                        "TEETHLOST": 7.6
+                    }
+                ]
+            },
+            "sites": [
+                "06-075-0005"
+            ]
+        },
+        "San Joaquin": {
+            "fips": "6077",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 21.2,
+                        "BPHIGH": 28.6,
+                        "CANCER": 5.7,
+                        "CASTHMA": 9.3,
+                        "CHD": 6.1,
+                        "COPD": 6.1,
+                        "DIABETES": 11.6,
+                        "HIGHCHOL": 29.8,
+                        "KIDNEY": 3.1,
+                        "OBESITY": 33.4,
+                        "STROKE": 3.3,
+                        "TEETHLOST": 15.0
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 20.3,
+                        "BPHIGH": 28.8,
+                        "CANCER": 5.4,
+                        "CASTHMA": 9.6,
+                        "CHD": 5.5,
+                        "COPD": 5.3,
+                        "DIABETES": 11.5,
+                        "HIGHCHOL": 28.6,
+                        "KIDNEY": 3.1,
+                        "OBESITY": 31.9,
+                        "STROKE": 3.1,
+                        "TEETHLOST": 15.0
+                    }
+                ]
+            },
+            "sites": [
+                "06-077-1002"
+            ]
+        },
+        "San Luis Obispo": {
+            "fips": "6079",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 22.3,
+                        "BPHIGH": 27.1,
+                        "CANCER": 6.3,
+                        "CASTHMA": 9.3,
+                        "CHD": 5.2,
+                        "COPD": 5.5,
+                        "DIABETES": 8.4,
+                        "HIGHCHOL": 27.0,
+                        "KIDNEY": 2.6,
+                        "OBESITY": 28.4,
+                        "STROKE": 2.7,
+                        "TEETHLOST": 10.3
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 19.9,
+                        "BPHIGH": 25.8,
+                        "CANCER": 6.2,
+                        "CASTHMA": 9.0,
+                        "CHD": 4.8,
+                        "COPD": 5.0,
+                        "DIABETES": 8.7,
+                        "HIGHCHOL": 27.7,
+                        "KIDNEY": 2.7,
+                        "OBESITY": 26.2,
+                        "STROKE": 2.6,
+                        "TEETHLOST": 10.3
+                    }
+                ]
+            },
+            "sites": [
+                "06-079-2006",
+                "06-079-8002"
+            ]
+        },
+        "San Mateo": {
+            "fips": "6081",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 17.9,
+                        "BPHIGH": 25.5,
+                        "CANCER": 5.5,
+                        "CASTHMA": 7.7,
+                        "CHD": 4.4,
+                        "COPD": 3.9,
+                        "DIABETES": 8.5,
+                        "HIGHCHOL": 26.0,
+                        "KIDNEY": 2.3,
+                        "OBESITY": 21.3,
+                        "STROKE": 2.2,
+                        "TEETHLOST": 7.5
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 16.1,
+                        "BPHIGH": 23.3,
+                        "CANCER": 5.4,
+                        "CASTHMA": 7.8,
+                        "CHD": 3.9,
+                        "COPD": 3.5,
+                        "DIABETES": 8.7,
+                        "HIGHCHOL": 28.2,
+                        "KIDNEY": 2.3,
+                        "OBESITY": 20.6,
+                        "STROKE": 2.2,
+                        "TEETHLOST": 7.5
+                    }
+                ]
+            },
+            "sites": [
+                "06-081-1001"
+            ]
+        },
+        "Santa Barbara": {
+            "fips": "6083",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 19.3,
+                        "BPHIGH": 26.8,
+                        "CANCER": 6.0,
+                        "CASTHMA": 9.2,
+                        "CHD": 5.5,
+                        "COPD": 5.6,
+                        "DIABETES": 9.5,
+                        "HIGHCHOL": 28.7,
+                        "KIDNEY": 2.8,
+                        "OBESITY": 26.8,
+                        "STROKE": 2.9,
+                        "TEETHLOST": 12.5
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 18.2,
+                        "BPHIGH": 25.6,
+                        "CANCER": 5.8,
+                        "CASTHMA": 8.6,
+                        "CHD": 5.0,
+                        "COPD": 4.9,
+                        "DIABETES": 10.3,
+                        "HIGHCHOL": 27.4,
+                        "KIDNEY": 3.0,
+                        "OBESITY": 27.3,
+                        "STROKE": 2.8,
+                        "TEETHLOST": 12.5
+                    }
+                ]
+            },
+            "sites": [
+                "06-083-0011",
+                "06-083-1008",
+                "06-083-2004",
+                "06-083-2011"
+            ]
+        },
+        "Santa Clara": {
+            "fips": "6085",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 17.7,
+                        "BPHIGH": 24.8,
+                        "CANCER": 5.4,
+                        "CASTHMA": 7.5,
+                        "CHD": 4.3,
+                        "COPD": 3.7,
+                        "DIABETES": 9.1,
+                        "HIGHCHOL": 27.0,
+                        "KIDNEY": 2.3,
+                        "OBESITY": 19.0,
+                        "STROKE": 2.2,
+                        "TEETHLOST": 7.7
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 15.2,
+                        "BPHIGH": 22.9,
+                        "CANCER": 5.1,
+                        "CASTHMA": 7.2,
+                        "CHD": 3.9,
+                        "COPD": 3.5,
+                        "DIABETES": 9.0,
+                        "HIGHCHOL": 25.2,
+                        "KIDNEY": 2.4,
+                        "OBESITY": 21.3,
+                        "STROKE": 2.2,
+                        "TEETHLOST": 7.7
+                    }
+                ]
+            },
+            "sites": [
+                "06-085-0002",
+                "06-085-0005"
+            ]
+        },
+        "Santa Cruz": {
+            "fips": "6087",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 21.6,
+                        "BPHIGH": 25.4,
+                        "CANCER": 6.2,
+                        "CASTHMA": 9.2,
+                        "CHD": 5.2,
+                        "COPD": 5.5,
+                        "DIABETES": 8.5,
+                        "HIGHCHOL": 26.7,
+                        "KIDNEY": 2.7,
+                        "OBESITY": 21.7,
+                        "STROKE": 2.7,
+                        "TEETHLOST": 10.9
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 19.2,
+                        "BPHIGH": 25.3,
+                        "CANCER": 6.0,
+                        "CASTHMA": 8.8,
+                        "CHD": 4.8,
+                        "COPD": 4.8,
+                        "DIABETES": 9.4,
+                        "HIGHCHOL": 26.8,
+                        "KIDNEY": 2.8,
+                        "OBESITY": 29.3,
+                        "STROKE": 2.7,
+                        "TEETHLOST": 10.9
+                    }
+                ]
+            },
+            "sites": [
+                "06-087-0007"
+            ]
+        },
+        "Shasta": {
+            "fips": "6089",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 23.3,
+                        "BPHIGH": 28.3,
+                        "CANCER": 6.5,
+                        "CASTHMA": 10.3,
+                        "CHD": 5.9,
+                        "COPD": 6.8,
+                        "DIABETES": 9.0,
+                        "HIGHCHOL": 28.0,
+                        "KIDNEY": 2.8,
+                        "OBESITY": 26.6,
+                        "STROKE": 3.1,
+                        "TEETHLOST": 13.4
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 21.8,
+                        "BPHIGH": 26.8,
+                        "CANCER": 6.4,
+                        "CASTHMA": 9.6,
+                        "CHD": 5.5,
+                        "COPD": 6.4,
+                        "DIABETES": 8.9,
+                        "HIGHCHOL": 27.2,
+                        "KIDNEY": 2.9,
+                        "OBESITY": 27.8,
+                        "STROKE": 3.1,
+                        "TEETHLOST": 13.4
+                    }
+                ]
+            },
+            "sites": [
+                "06-089-0004"
+            ]
+        },
+        "Siskiyou": {
+            "fips": "6093",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 24.1,
+                        "BPHIGH": 28.7,
+                        "CANCER": 6.4,
+                        "CASTHMA": 10.4,
+                        "CHD": 6.3,
+                        "COPD": 7.1,
+                        "DIABETES": 9.4,
+                        "HIGHCHOL": 28.8,
+                        "KIDNEY": 2.9,
+                        "OBESITY": 28.4,
+                        "STROKE": 3.3,
+                        "TEETHLOST": 14.2
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 22.2,
+                        "BPHIGH": 27.6,
+                        "CANCER": 6.5,
+                        "CASTHMA": 9.8,
+                        "CHD": 5.8,
+                        "COPD": 6.6,
+                        "DIABETES": 9.7,
+                        "HIGHCHOL": 27.8,
+                        "KIDNEY": 3.0,
+                        "OBESITY": 31.3,
+                        "STROKE": 3.2,
+                        "TEETHLOST": 14.2
+                    }
+                ]
+            },
+            "sites": [
+                "06-093-2001"
+            ]
+        },
+        "Solano": {
+            "fips": "6095",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 21.6,
+                        "BPHIGH": 29.2,
+                        "CANCER": 5.8,
+                        "CASTHMA": 9.6,
+                        "CHD": 5.1,
+                        "COPD": 5.1,
+                        "DIABETES": 9.8,
+                        "HIGHCHOL": 27.6,
+                        "KIDNEY": 2.7,
+                        "OBESITY": 27.1,
+                        "STROKE": 2.9,
+                        "TEETHLOST": 11.5
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 20.0,
+                        "BPHIGH": 26.5,
+                        "CANCER": 5.7,
+                        "CASTHMA": 8.8,
+                        "CHD": 4.7,
+                        "COPD": 4.6,
+                        "DIABETES": 10.0,
+                        "HIGHCHOL": 26.7,
+                        "KIDNEY": 2.8,
+                        "OBESITY": 30.7,
+                        "STROKE": 2.8,
+                        "TEETHLOST": 11.5
+                    }
+                ]
+            },
+            "sites": [
+                "06-095-0004"
+            ]
+        },
+        "Sonoma": {
+            "fips": "6097",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 21.0,
+                        "BPHIGH": 24.3,
+                        "CANCER": 6.3,
+                        "CASTHMA": 9.2,
+                        "CHD": 5.0,
+                        "COPD": 5.3,
+                        "DIABETES": 8.4,
+                        "HIGHCHOL": 26.3,
+                        "KIDNEY": 2.5,
+                        "OBESITY": 25.3,
+                        "STROKE": 2.6,
+                        "TEETHLOST": 10.9
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 19.5,
+                        "BPHIGH": 24.9,
+                        "CANCER": 6.1,
+                        "CASTHMA": 9.1,
+                        "CHD": 4.6,
+                        "COPD": 4.7,
+                        "DIABETES": 8.2,
+                        "HIGHCHOL": 25.5,
+                        "KIDNEY": 2.6,
+                        "OBESITY": 27.1,
+                        "STROKE": 2.6,
+                        "TEETHLOST": 10.9
+                    }
+                ]
+            },
+            "sites": [
+                "06-097-0004"
+            ]
+        },
+        "Stanislaus": {
+            "fips": "6099",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 23.2,
+                        "BPHIGH": 28.7,
+                        "CANCER": 5.9,
+                        "CASTHMA": 10.0,
+                        "CHD": 6.2,
+                        "COPD": 6.6,
+                        "DIABETES": 10.7,
+                        "HIGHCHOL": 28.3,
+                        "KIDNEY": 3.1,
+                        "OBESITY": 33.1,
+                        "STROKE": 3.3,
+                        "TEETHLOST": 15.0
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 20.3,
+                        "BPHIGH": 29.1,
+                        "CANCER": 5.6,
+                        "CASTHMA": 9.4,
+                        "CHD": 5.6,
+                        "COPD": 5.7,
+                        "DIABETES": 11.8,
+                        "HIGHCHOL": 29.0,
+                        "KIDNEY": 3.2,
+                        "OBESITY": 30.8,
+                        "STROKE": 3.1,
+                        "TEETHLOST": 15.0
+                    }
+                ]
+            },
+            "sites": [
+                "06-099-0005",
+                "06-099-0006"
+            ]
+        },
+        "Sutter": {
+            "fips": "6101",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 22.9,
+                        "BPHIGH": 28.5,
+                        "CANCER": 5.9,
+                        "CASTHMA": 9.6,
+                        "CHD": 6.1,
+                        "COPD": 6.5,
+                        "DIABETES": 11.0,
+                        "HIGHCHOL": 29.0,
+                        "KIDNEY": 3.0,
+                        "OBESITY": 27.8,
+                        "STROKE": 3.2,
+                        "TEETHLOST": 15.1
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 20.2,
+                        "BPHIGH": 28.0,
+                        "CANCER": 5.7,
+                        "CASTHMA": 9.1,
+                        "CHD": 5.6,
+                        "COPD": 5.9,
+                        "DIABETES": 11.2,
+                        "HIGHCHOL": 28.3,
+                        "KIDNEY": 3.1,
+                        "OBESITY": 29.1,
+                        "STROKE": 3.2,
+                        "TEETHLOST": 15.1
+                    }
+                ]
+            },
+            "sites": [
+                "06-101-0003"
+            ]
+        },
+        "Tehama": {
+            "fips": "6103",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 25.2,
+                        "BPHIGH": 29.6,
+                        "CANCER": 6.3,
+                        "CASTHMA": 10.5,
+                        "CHD": 6.7,
+                        "COPD": 7.8,
+                        "DIABETES": 10.6,
+                        "HIGHCHOL": 29.2,
+                        "KIDNEY": 3.2,
+                        "OBESITY": 34.3,
+                        "STROKE": 3.5,
+                        "TEETHLOST": 17.0
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 22.8,
+                        "BPHIGH": 30.4,
+                        "CANCER": 6.2,
+                        "CASTHMA": 10.0,
+                        "CHD": 6.4,
+                        "COPD": 7.2,
+                        "DIABETES": 11.1,
+                        "HIGHCHOL": 27.8,
+                        "KIDNEY": 3.3,
+                        "OBESITY": 35.1,
+                        "STROKE": 3.5,
+                        "TEETHLOST": 17.0
+                    }
+                ]
+            },
+            "sites": [
+                "06-103-0007"
+            ]
+        },
+        "Tulare": {
+            "fips": "6107",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 23.0,
+                        "BPHIGH": 31.4,
+                        "CANCER": 5.7,
+                        "CASTHMA": 10.1,
+                        "CHD": 7.0,
+                        "COPD": 7.4,
+                        "DIABETES": 13.3,
+                        "HIGHCHOL": 30.6,
+                        "KIDNEY": 3.6,
+                        "OBESITY": 35.4,
+                        "STROKE": 3.8,
+                        "TEETHLOST": 18.9
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 20.6,
+                        "BPHIGH": 30.4,
+                        "CANCER": 5.3,
+                        "CASTHMA": 9.5,
+                        "CHD": 6.5,
+                        "COPD": 6.3,
+                        "DIABETES": 13.9,
+                        "HIGHCHOL": 29.0,
+                        "KIDNEY": 3.8,
+                        "OBESITY": 35.7,
+                        "STROKE": 3.5,
+                        "TEETHLOST": 18.9
+                    }
+                ]
+            },
+            "sites": [
+                "06-107-2002"
+            ]
+        },
+        "Ventura": {
+            "fips": "6111",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 19.8,
+                        "BPHIGH": 27.5,
+                        "CANCER": 5.9,
+                        "CASTHMA": 8.9,
+                        "CHD": 5.2,
+                        "COPD": 5.1,
+                        "DIABETES": 8.7,
+                        "HIGHCHOL": 28.5,
+                        "KIDNEY": 2.7,
+                        "OBESITY": 24.0,
+                        "STROKE": 2.7,
+                        "TEETHLOST": 10.5
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 17.6,
+                        "BPHIGH": 26.8,
+                        "CANCER": 5.7,
+                        "CASTHMA": 8.2,
+                        "CHD": 4.6,
+                        "COPD": 4.4,
+                        "DIABETES": 9.6,
+                        "HIGHCHOL": 29.1,
+                        "KIDNEY": 2.7,
+                        "OBESITY": 27.5,
+                        "STROKE": 2.6,
+                        "TEETHLOST": 10.5
+                    }
+                ]
+            },
+            "sites": [
+                "06-111-0007",
+                "06-111-0009",
+                "06-111-1004",
+                "06-111-2002",
+                "06-111-3001"
+            ]
+        },
+        "Yolo": {
+            "fips": "6113",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 21.7,
+                        "BPHIGH": 27.1,
+                        "CANCER": 6.0,
+                        "CASTHMA": 9.2,
+                        "CHD": 5.6,
+                        "COPD": 5.5,
+                        "DIABETES": 9.9,
+                        "HIGHCHOL": 28.8,
+                        "KIDNEY": 2.8,
+                        "OBESITY": 26.6,
+                        "STROKE": 2.9,
+                        "TEETHLOST": 11.4
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 20.0,
+                        "BPHIGH": 26.7,
+                        "CANCER": 5.8,
+                        "CASTHMA": 8.8,
+                        "CHD": 5.1,
+                        "COPD": 5.0,
+                        "DIABETES": 10.4,
+                        "HIGHCHOL": 26.0,
+                        "KIDNEY": 3.0,
+                        "OBESITY": 29.9,
+                        "STROKE": 2.8,
+                        "TEETHLOST": 11.4
+                    }
+                ]
+            },
+            "sites": [
+                "06-113-1003"
+            ]
+        }
+    }
+}

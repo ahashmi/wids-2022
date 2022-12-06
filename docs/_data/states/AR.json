@@ -1,0 +1,128 @@
+{
+    "specs": {
+        "epa_n": 1192,
+        "cdc_n": 150
+    },
+    "counties": {
+        "Crittenden": {
+            "fips": "5035",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 31.5,
+                        "BPHIGH": 41.9,
+                        "CANCER": 6.2,
+                        "CASTHMA": 11.3,
+                        "CHD": 7.9,
+                        "COPD": 8.8,
+                        "DIABETES": 14.4,
+                        "HIGHCHOL": 32.3,
+                        "KIDNEY": 3.4,
+                        "OBESITY": 38.2,
+                        "STROKE": 4.4,
+                        "TEETHLOST": 24.1
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 28.5,
+                        "BPHIGH": 42.6,
+                        "CANCER": 6.2,
+                        "CASTHMA": 11.3,
+                        "CHD": 7.4,
+                        "COPD": 9.1,
+                        "DIABETES": 14.3,
+                        "HIGHCHOL": 34.4,
+                        "KIDNEY": 3.8,
+                        "OBESITY": 42.6,
+                        "STROKE": 4.7,
+                        "TEETHLOST": 24.1
+                    }
+                ]
+            },
+            "sites": [
+                "05-035-0005"
+            ]
+        },
+        "Pulaski": {
+            "fips": "5119",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 26.3,
+                        "BPHIGH": 37.7,
+                        "CANCER": 6.5,
+                        "CASTHMA": 10.3,
+                        "CHD": 6.9,
+                        "COPD": 7.0,
+                        "DIABETES": 11.6,
+                        "HIGHCHOL": 30.6,
+                        "KIDNEY": 2.9,
+                        "OBESITY": 34.8,
+                        "STROKE": 3.5,
+                        "TEETHLOST": 16.1
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 24.9,
+                        "BPHIGH": 37.3,
+                        "CANCER": 6.3,
+                        "CASTHMA": 9.8,
+                        "CHD": 6.1,
+                        "COPD": 7.0,
+                        "DIABETES": 11.5,
+                        "HIGHCHOL": 31.4,
+                        "KIDNEY": 3.1,
+                        "OBESITY": 34.9,
+                        "STROKE": 3.6,
+                        "TEETHLOST": 16.1
+                    }
+                ]
+            },
+            "sites": [
+                "05-119-0007"
+            ]
+        },
+        "Washington": {
+            "fips": "5143",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 27.1,
+                        "BPHIGH": 35.1,
+                        "CANCER": 6.8,
+                        "CASTHMA": 9.6,
+                        "CHD": 7.4,
+                        "COPD": 7.4,
+                        "DIABETES": 10.8,
+                        "HIGHCHOL": 30.8,
+                        "KIDNEY": 2.8,
+                        "OBESITY": 33.6,
+                        "STROKE": 3.2,
+                        "TEETHLOST": 17.5
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 22.8,
+                        "BPHIGH": 30.5,
+                        "CANCER": 6.4,
+                        "CASTHMA": 9.5,
+                        "CHD": 6.6,
+                        "COPD": 7.3,
+                        "DIABETES": 10.8,
+                        "HIGHCHOL": 29.3,
+                        "KIDNEY": 2.9,
+                        "OBESITY": 33.9,
+                        "STROKE": 3.2,
+                        "TEETHLOST": 17.5
+                    }
+                ]
+            },
+            "sites": [
+                "05-143-0005"
+            ]
+        }
+    }
+}

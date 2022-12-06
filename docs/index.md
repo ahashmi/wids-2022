@@ -20,7 +20,7 @@ layout: default
                 </td>
                 <td>
                     {% for state in region[1] %}
-                        <a href="{{ state }}.html">{{ state }}</a>
+                        <a href="states/{{ state }}.html">{{ state }}</a>
                     {% endfor %}
                 </td>
             </tr>

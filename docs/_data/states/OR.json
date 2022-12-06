@@ -1,0 +1,128 @@
+{
+    "specs": {
+        "epa_n": 559,
+        "cdc_n": 72
+    },
+    "counties": {
+        "Lane": {
+            "fips": "41039",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 27.2,
+                        "BPHIGH": 26.6,
+                        "CANCER": 6.5,
+                        "CASTHMA": 11.4,
+                        "CHD": 6.2,
+                        "COPD": 7.2,
+                        "DIABETES": 9.6,
+                        "HIGHCHOL": 28.2,
+                        "KIDNEY": 2.8,
+                        "OBESITY": 32.7,
+                        "STROKE": 3.1,
+                        "TEETHLOST": 15.8
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 25.2,
+                        "BPHIGH": 27.0,
+                        "CANCER": 6.6,
+                        "CASTHMA": 11.2,
+                        "CHD": 5.8,
+                        "COPD": 6.2,
+                        "DIABETES": 8.4,
+                        "HIGHCHOL": 26.7,
+                        "KIDNEY": 2.8,
+                        "OBESITY": 29.3,
+                        "STROKE": 3.1,
+                        "TEETHLOST": 15.8
+                    }
+                ]
+            },
+            "sites": [
+                "41-039-0060"
+            ]
+        },
+        "Multnomah": {
+            "fips": "41051",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 24.4,
+                        "BPHIGH": 26.8,
+                        "CANCER": 6.4,
+                        "CASTHMA": 10.7,
+                        "CHD": 5.8,
+                        "COPD": 5.7,
+                        "DIABETES": 9.1,
+                        "HIGHCHOL": 27.6,
+                        "KIDNEY": 2.6,
+                        "OBESITY": 25.8,
+                        "STROKE": 2.8,
+                        "TEETHLOST": 12.6
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 21.1,
+                        "BPHIGH": 26.7,
+                        "CANCER": 6.3,
+                        "CASTHMA": 9.9,
+                        "CHD": 4.8,
+                        "COPD": 4.9,
+                        "DIABETES": 7.8,
+                        "HIGHCHOL": 25.9,
+                        "KIDNEY": 2.6,
+                        "OBESITY": 26.6,
+                        "STROKE": 2.8,
+                        "TEETHLOST": 12.6
+                    }
+                ]
+            },
+            "sites": [
+                "41-051-0080"
+            ]
+        },
+        "Washington": {
+            "fips": "41067",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 22.0,
+                        "BPHIGH": 26.0,
+                        "CANCER": 6.1,
+                        "CASTHMA": 9.9,
+                        "CHD": 5.1,
+                        "COPD": 5.1,
+                        "DIABETES": 9.1,
+                        "HIGHCHOL": 24.9,
+                        "KIDNEY": 2.4,
+                        "OBESITY": 27.7,
+                        "STROKE": 2.5,
+                        "TEETHLOST": 10.0
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 20.1,
+                        "BPHIGH": 26.4,
+                        "CANCER": 6.1,
+                        "CASTHMA": 9.3,
+                        "CHD": 4.4,
+                        "COPD": 4.3,
+                        "DIABETES": 7.8,
+                        "HIGHCHOL": 25.5,
+                        "KIDNEY": 2.4,
+                        "OBESITY": 27.0,
+                        "STROKE": 2.5,
+                        "TEETHLOST": 10.0
+                    }
+                ]
+            },
+            "sites": [
+                "41-067-0005"
+            ]
+        }
+    }
+}

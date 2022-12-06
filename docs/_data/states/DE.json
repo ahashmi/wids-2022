@@ -1,0 +1,129 @@
+{
+    "specs": {
+        "epa_n": 2639,
+        "cdc_n": 6
+    },
+    "counties": {
+        "Kent": {
+            "fips": "10001",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 26.5,
+                        "BPHIGH": 33.5,
+                        "CANCER": 6.6,
+                        "CASTHMA": 10.6,
+                        "CHD": 6.4,
+                        "COPD": 7.6,
+                        "DIABETES": 12.4,
+                        "HIGHCHOL": 30.3,
+                        "KIDNEY": 3.0,
+                        "OBESITY": 40.8,
+                        "STROKE": 3.5,
+                        "TEETHLOST": 17.8
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 26.7,
+                        "BPHIGH": 33.7,
+                        "CANCER": 6.4,
+                        "CASTHMA": 11.2,
+                        "CHD": 5.8,
+                        "COPD": 7.8,
+                        "DIABETES": 11.8,
+                        "HIGHCHOL": 28.9,
+                        "KIDNEY": 3.1,
+                        "OBESITY": 41.2,
+                        "STROKE": 3.5,
+                        "TEETHLOST": 17.8
+                    }
+                ]
+            },
+            "sites": [
+                "10-001-0002"
+            ]
+        },
+        "New Castle": {
+            "fips": "10003",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 21.5,
+                        "BPHIGH": 32.5,
+                        "CANCER": 6.2,
+                        "CASTHMA": 9.4,
+                        "CHD": 5.2,
+                        "COPD": 5.9,
+                        "DIABETES": 10.1,
+                        "HIGHCHOL": 28.8,
+                        "KIDNEY": 2.7,
+                        "OBESITY": 33.2,
+                        "STROKE": 3.1,
+                        "TEETHLOST": 13.4
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 22.0,
+                        "BPHIGH": 31.6,
+                        "CANCER": 6.1,
+                        "CASTHMA": 9.4,
+                        "CHD": 5.1,
+                        "COPD": 6.2,
+                        "DIABETES": 10.3,
+                        "HIGHCHOL": 28.4,
+                        "KIDNEY": 2.8,
+                        "OBESITY": 33.0,
+                        "STROKE": 3.1,
+                        "TEETHLOST": 13.4
+                    }
+                ]
+            },
+            "sites": [
+                "10-003-1007",
+                "10-003-2004"
+            ]
+        },
+        "Sussex": {
+            "fips": "10005",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 24.1,
+                        "BPHIGH": 30.3,
+                        "CANCER": 6.6,
+                        "CASTHMA": 10.0,
+                        "CHD": 6.5,
+                        "COPD": 7.2,
+                        "DIABETES": 9.5,
+                        "HIGHCHOL": 28.4,
+                        "KIDNEY": 2.6,
+                        "OBESITY": 34.5,
+                        "STROKE": 3.1,
+                        "TEETHLOST": 17.7
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 25.0,
+                        "BPHIGH": 31.3,
+                        "CANCER": 7.0,
+                        "CASTHMA": 9.3,
+                        "CHD": 6.0,
+                        "COPD": 7.3,
+                        "DIABETES": 10.2,
+                        "HIGHCHOL": 30.6,
+                        "KIDNEY": 2.8,
+                        "OBESITY": 35.3,
+                        "STROKE": 3.1,
+                        "TEETHLOST": 17.7
+                    }
+                ]
+            },
+            "sites": [
+                "10-005-1002"
+            ]
+        }
+    }
+}

@@ -1,0 +1,415 @@
+{
+    "specs": {
+        "epa_n": 3179,
+        "cdc_n": 266
+    },
+    "counties": {
+        "Albemarle": {
+            "fips": "51003",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 22.0,
+                        "BPHIGH": 28.0,
+                        "CANCER": 6.5,
+                        "CASTHMA": 8.6,
+                        "CHD": 5.4,
+                        "COPD": 5.5,
+                        "DIABETES": 8.2,
+                        "HIGHCHOL": 28.6,
+                        "KIDNEY": 2.4,
+                        "OBESITY": 27.1,
+                        "STROKE": 2.5,
+                        "TEETHLOST": 9.4
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 22.3,
+                        "BPHIGH": 27.3,
+                        "CANCER": 6.5,
+                        "CASTHMA": 8.6,
+                        "CHD": 4.7,
+                        "COPD": 5.3,
+                        "DIABETES": 8.5,
+                        "HIGHCHOL": 27.7,
+                        "KIDNEY": 2.4,
+                        "OBESITY": 27.7,
+                        "STROKE": 2.5,
+                        "TEETHLOST": 9.4
+                    }
+                ]
+            },
+            "sites": [
+                "51-003-0001"
+            ]
+        },
+        "Arlington": {
+            "fips": "51013",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 18.5,
+                        "BPHIGH": 26.0,
+                        "CANCER": 6.1,
+                        "CASTHMA": 7.6,
+                        "CHD": 4.5,
+                        "COPD": 3.8,
+                        "DIABETES": 7.7,
+                        "HIGHCHOL": 28.7,
+                        "KIDNEY": 2.2,
+                        "OBESITY": 20.1,
+                        "STROKE": 2.1,
+                        "TEETHLOST": 5.9
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 18.0,
+                        "BPHIGH": 25.0,
+                        "CANCER": 5.9,
+                        "CASTHMA": 7.9,
+                        "CHD": 3.9,
+                        "COPD": 3.6,
+                        "DIABETES": 8.0,
+                        "HIGHCHOL": 28.3,
+                        "KIDNEY": 2.2,
+                        "OBESITY": 23.5,
+                        "STROKE": 2.1,
+                        "TEETHLOST": 5.9
+                    }
+                ]
+            },
+            "sites": [
+                "51-013-0020"
+            ]
+        },
+        "Charles City": {
+            "fips": "51036",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 26.8,
+                        "BPHIGH": 36.4,
+                        "CANCER": 6.1,
+                        "CASTHMA": 10.9,
+                        "CHD": 6.8,
+                        "COPD": 7.9,
+                        "DIABETES": 12.9,
+                        "HIGHCHOL": 30.0,
+                        "KIDNEY": 3.2,
+                        "OBESITY": 37.9,
+                        "STROKE": 4.1,
+                        "TEETHLOST": 19.2
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 26.5,
+                        "BPHIGH": 38.1,
+                        "CANCER": 6.2,
+                        "CASTHMA": 11.0,
+                        "CHD": 6.2,
+                        "COPD": 7.9,
+                        "DIABETES": 13.2,
+                        "HIGHCHOL": 29.2,
+                        "KIDNEY": 3.3,
+                        "OBESITY": 38.6,
+                        "STROKE": 4.2,
+                        "TEETHLOST": 19.2
+                    }
+                ]
+            },
+            "sites": [
+                "51-036-0002"
+            ]
+        },
+        "Chesterfield": {
+            "fips": "51041",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 23.6,
+                        "BPHIGH": 29.2,
+                        "CANCER": 6.4,
+                        "CASTHMA": 8.9,
+                        "CHD": 5.4,
+                        "COPD": 5.6,
+                        "DIABETES": 9.8,
+                        "HIGHCHOL": 30.0,
+                        "KIDNEY": 2.5,
+                        "OBESITY": 33.4,
+                        "STROKE": 2.7,
+                        "TEETHLOST": 9.4
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 22.9,
+                        "BPHIGH": 33.6,
+                        "CANCER": 6.5,
+                        "CASTHMA": 9.2,
+                        "CHD": 4.8,
+                        "COPD": 5.7,
+                        "DIABETES": 10.2,
+                        "HIGHCHOL": 29.1,
+                        "KIDNEY": 2.5,
+                        "OBESITY": 35.6,
+                        "STROKE": 2.7,
+                        "TEETHLOST": 9.4
+                    }
+                ]
+            },
+            "sites": [
+                "51-041-0004"
+            ]
+        },
+        "Fairfax": {
+            "fips": "51059",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 19.2,
+                        "BPHIGH": 23.8,
+                        "CANCER": 6.0,
+                        "CASTHMA": 7.1,
+                        "CHD": 4.6,
+                        "COPD": 4.0,
+                        "DIABETES": 7.7,
+                        "HIGHCHOL": 29.7,
+                        "KIDNEY": 2.2,
+                        "OBESITY": 21.8,
+                        "STROKE": 2.2,
+                        "TEETHLOST": 6.7
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 18.8,
+                        "BPHIGH": 26.6,
+                        "CANCER": 5.7,
+                        "CASTHMA": 7.7,
+                        "CHD": 4.2,
+                        "COPD": 4.0,
+                        "DIABETES": 8.4,
+                        "HIGHCHOL": 28.5,
+                        "KIDNEY": 2.3,
+                        "OBESITY": 24.2,
+                        "STROKE": 2.3,
+                        "TEETHLOST": 6.7
+                    }
+                ]
+            },
+            "sites": [
+                "51-059-0030"
+            ]
+        },
+        "Frederick": {
+            "fips": "51069",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 25.2,
+                        "BPHIGH": 28.9,
+                        "CANCER": 6.5,
+                        "CASTHMA": 8.8,
+                        "CHD": 5.8,
+                        "COPD": 6.4,
+                        "DIABETES": 8.8,
+                        "HIGHCHOL": 29.7,
+                        "KIDNEY": 2.4,
+                        "OBESITY": 32.1,
+                        "STROKE": 2.7,
+                        "TEETHLOST": 11.8
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 23.5,
+                        "BPHIGH": 31.1,
+                        "CANCER": 6.6,
+                        "CASTHMA": 9.0,
+                        "CHD": 5.1,
+                        "COPD": 6.2,
+                        "DIABETES": 8.8,
+                        "HIGHCHOL": 29.0,
+                        "KIDNEY": 2.4,
+                        "OBESITY": 32.6,
+                        "STROKE": 2.7,
+                        "TEETHLOST": 11.8
+                    }
+                ]
+            },
+            "sites": [
+                "51-069-0010"
+            ]
+        },
+        "Henrico": {
+            "fips": "51087",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 23.9,
+                        "BPHIGH": 33.0,
+                        "CANCER": 6.1,
+                        "CASTHMA": 8.9,
+                        "CHD": 5.4,
+                        "COPD": 5.5,
+                        "DIABETES": 9.9,
+                        "HIGHCHOL": 29.0,
+                        "KIDNEY": 2.6,
+                        "OBESITY": 31.9,
+                        "STROKE": 2.9,
+                        "TEETHLOST": 10.6
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 23.0,
+                        "BPHIGH": 32.5,
+                        "CANCER": 6.1,
+                        "CASTHMA": 9.3,
+                        "CHD": 4.8,
+                        "COPD": 5.4,
+                        "DIABETES": 9.8,
+                        "HIGHCHOL": 27.9,
+                        "KIDNEY": 2.6,
+                        "OBESITY": 29.7,
+                        "STROKE": 2.9,
+                        "TEETHLOST": 10.6
+                    }
+                ]
+            },
+            "sites": [
+                "51-087-0014"
+            ]
+        },
+        "Loudoun": {
+            "fips": "51107",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 18.7,
+                        "BPHIGH": 25.0,
+                        "CANCER": 5.9,
+                        "CASTHMA": 7.4,
+                        "CHD": 4.5,
+                        "COPD": 4.1,
+                        "DIABETES": 7.5,
+                        "HIGHCHOL": 29.4,
+                        "KIDNEY": 2.1,
+                        "OBESITY": 22.6,
+                        "STROKE": 2.1,
+                        "TEETHLOST": 6.8
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 19.4,
+                        "BPHIGH": 26.4,
+                        "CANCER": 5.9,
+                        "CASTHMA": 7.5,
+                        "CHD": 4.1,
+                        "COPD": 3.9,
+                        "DIABETES": 8.3,
+                        "HIGHCHOL": 28.5,
+                        "KIDNEY": 2.1,
+                        "OBESITY": 25.8,
+                        "STROKE": 2.2,
+                        "TEETHLOST": 6.8
+                    }
+                ]
+            },
+            "sites": [
+                "51-107-1005"
+            ]
+        },
+        "Roanoke": {
+            "fips": "51161",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 24.7,
+                        "BPHIGH": 28.2,
+                        "CANCER": 6.6,
+                        "CASTHMA": 8.7,
+                        "CHD": 5.6,
+                        "COPD": 6.0,
+                        "DIABETES": 9.1,
+                        "HIGHCHOL": 29.9,
+                        "KIDNEY": 2.4,
+                        "OBESITY": 30.3,
+                        "STROKE": 2.6,
+                        "TEETHLOST": 10.9
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 24.6,
+                        "BPHIGH": 30.2,
+                        "CANCER": 6.6,
+                        "CASTHMA": 8.9,
+                        "CHD": 5.0,
+                        "COPD": 6.1,
+                        "DIABETES": 9.2,
+                        "HIGHCHOL": 29.4,
+                        "KIDNEY": 2.4,
+                        "OBESITY": 28.8,
+                        "STROKE": 2.7,
+                        "TEETHLOST": 10.9
+                    }
+                ]
+            },
+            "sites": [
+                "51-161-1004"
+            ]
+        },
+        "Rockingham": {
+            "fips": "51165",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 25.3,
+                        "BPHIGH": 28.5,
+                        "CANCER": 6.6,
+                        "CASTHMA": 9.2,
+                        "CHD": 6.1,
+                        "COPD": 7.2,
+                        "DIABETES": 9.3,
+                        "HIGHCHOL": 29.9,
+                        "KIDNEY": 2.6,
+                        "OBESITY": 33.9,
+                        "STROKE": 2.9,
+                        "TEETHLOST": 13.4
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 24.2,
+                        "BPHIGH": 31.1,
+                        "CANCER": 6.6,
+                        "CASTHMA": 9.5,
+                        "CHD": 5.5,
+                        "COPD": 7.2,
+                        "DIABETES": 9.4,
+                        "HIGHCHOL": 29.2,
+                        "KIDNEY": 2.6,
+                        "OBESITY": 34.1,
+                        "STROKE": 2.9,
+                        "TEETHLOST": 13.4
+                    }
+                ]
+            },
+            "sites": [
+                "51-165-0003"
+            ]
+        },
+        "Hampton City": {
+            "fips": null,
+            "outcomes": {},
+            "sites": [
+                "51-650-0008"
+            ]
+        }
+    }
+}

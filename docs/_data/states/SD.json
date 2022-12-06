@@ -1,0 +1,248 @@
+{
+    "specs": {
+        "epa_n": 3771,
+        "cdc_n": 132
+    },
+    "counties": {
+        "Brookings": {
+            "fips": "46011",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 19.9,
+                        "BPHIGH": 27.5,
+                        "CANCER": 6.7,
+                        "CASTHMA": 8.2,
+                        "CHD": 5.6,
+                        "COPD": 4.8,
+                        "DIABETES": 8.1,
+                        "HIGHCHOL": 24.0,
+                        "KIDNEY": 2.5,
+                        "OBESITY": 32.6,
+                        "STROKE": 2.8,
+                        "TEETHLOST": 11.9
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 21.3,
+                        "BPHIGH": 25.9,
+                        "CANCER": 6.6,
+                        "CASTHMA": 7.8,
+                        "CHD": 5.1,
+                        "COPD": 4.6,
+                        "DIABETES": 7.9,
+                        "HIGHCHOL": 23.8,
+                        "KIDNEY": 2.5,
+                        "OBESITY": 31.9,
+                        "STROKE": 2.7,
+                        "TEETHLOST": 11.9
+                    }
+                ]
+            },
+            "sites": [
+                "46-011-0003"
+            ]
+        },
+        "Custer": {
+            "fips": "46033",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 23.2,
+                        "BPHIGH": 27.3,
+                        "CANCER": 6.6,
+                        "CASTHMA": 8.6,
+                        "CHD": 5.9,
+                        "COPD": 5.0,
+                        "DIABETES": 8.1,
+                        "HIGHCHOL": 24.4,
+                        "KIDNEY": 2.5,
+                        "OBESITY": 32.3,
+                        "STROKE": 2.8,
+                        "TEETHLOST": 13.0
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 22.3,
+                        "BPHIGH": 28.5,
+                        "CANCER": 6.6,
+                        "CASTHMA": 8.6,
+                        "CHD": 5.3,
+                        "COPD": 5.3,
+                        "DIABETES": 8.5,
+                        "HIGHCHOL": 25.7,
+                        "KIDNEY": 2.6,
+                        "OBESITY": 31.0,
+                        "STROKE": 2.8,
+                        "TEETHLOST": 13.0
+                    }
+                ]
+            },
+            "sites": [
+                "46-033-0132"
+            ]
+        },
+        "Jackson": {
+            "fips": "46071",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 27.7,
+                        "BPHIGH": 35.4,
+                        "CANCER": 6.8,
+                        "CASTHMA": 12.7,
+                        "CHD": 10.5,
+                        "COPD": 10.0,
+                        "DIABETES": 15.7,
+                        "HIGHCHOL": 26.8,
+                        "KIDNEY": 4.4,
+                        "OBESITY": 40.5,
+                        "STROKE": 5.7,
+                        "TEETHLOST": 28.1
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 27.6,
+                        "BPHIGH": 37.3,
+                        "CANCER": 6.8,
+                        "CASTHMA": 11.6,
+                        "CHD": 9.4,
+                        "COPD": 10.0,
+                        "DIABETES": 14.5,
+                        "HIGHCHOL": 28.0,
+                        "KIDNEY": 4.4,
+                        "OBESITY": 38.2,
+                        "STROKE": 5.5,
+                        "TEETHLOST": 28.1
+                    }
+                ]
+            },
+            "sites": [
+                "46-071-0001"
+            ]
+        },
+        "Minnehaha": {
+            "fips": "46099",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 21.0,
+                        "BPHIGH": 27.8,
+                        "CANCER": 6.5,
+                        "CASTHMA": 8.3,
+                        "CHD": 5.9,
+                        "COPD": 4.7,
+                        "DIABETES": 8.5,
+                        "HIGHCHOL": 24.4,
+                        "KIDNEY": 2.4,
+                        "OBESITY": 31.0,
+                        "STROKE": 2.7,
+                        "TEETHLOST": 12.8
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 21.3,
+                        "BPHIGH": 27.6,
+                        "CANCER": 6.6,
+                        "CASTHMA": 8.0,
+                        "CHD": 5.0,
+                        "COPD": 4.8,
+                        "DIABETES": 8.2,
+                        "HIGHCHOL": 26.0,
+                        "KIDNEY": 2.5,
+                        "OBESITY": 34.5,
+                        "STROKE": 2.7,
+                        "TEETHLOST": 12.8
+                    }
+                ]
+            },
+            "sites": [
+                "46-099-0008"
+            ]
+        },
+        "Union": {
+            "fips": "46127",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 21.2,
+                        "BPHIGH": 26.7,
+                        "CANCER": 6.6,
+                        "CASTHMA": 8.2,
+                        "CHD": 5.5,
+                        "COPD": 4.6,
+                        "DIABETES": 7.7,
+                        "HIGHCHOL": 25.1,
+                        "KIDNEY": 2.3,
+                        "OBESITY": 31.0,
+                        "STROKE": 2.6,
+                        "TEETHLOST": 11.5
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 21.6,
+                        "BPHIGH": 26.2,
+                        "CANCER": 6.6,
+                        "CASTHMA": 8.2,
+                        "CHD": 4.9,
+                        "COPD": 4.7,
+                        "DIABETES": 7.5,
+                        "HIGHCHOL": 26.0,
+                        "KIDNEY": 2.4,
+                        "OBESITY": 31.8,
+                        "STROKE": 2.6,
+                        "TEETHLOST": 11.5
+                    }
+                ]
+            },
+            "sites": [
+                "46-127-0001"
+            ]
+        },
+        "Codington": {
+            "fips": "46029",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 22.7,
+                        "BPHIGH": 26.1,
+                        "CANCER": 6.5,
+                        "CASTHMA": 8.6,
+                        "CHD": 6.1,
+                        "COPD": 5.3,
+                        "DIABETES": 8.5,
+                        "HIGHCHOL": 24.2,
+                        "KIDNEY": 2.5,
+                        "OBESITY": 35.2,
+                        "STROKE": 2.9,
+                        "TEETHLOST": 15.1
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 23.6,
+                        "BPHIGH": 27.2,
+                        "CANCER": 6.5,
+                        "CASTHMA": 8.5,
+                        "CHD": 5.5,
+                        "COPD": 5.5,
+                        "DIABETES": 8.2,
+                        "HIGHCHOL": 23.6,
+                        "KIDNEY": 2.6,
+                        "OBESITY": 34.6,
+                        "STROKE": 2.9,
+                        "TEETHLOST": 15.1
+                    }
+                ]
+            },
+            "sites": [
+                "46-029-0002"
+            ]
+        }
+    }
+}

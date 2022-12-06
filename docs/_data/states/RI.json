@@ -1,0 +1,128 @@
+{
+    "specs": {
+        "epa_n": 1460,
+        "cdc_n": 10
+    },
+    "counties": {
+        "Kent": {
+            "fips": "44003",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 27.3,
+                        "BPHIGH": 30.6,
+                        "CANCER": 6.7,
+                        "CASTHMA": 11.3,
+                        "CHD": 5.9,
+                        "COPD": 6.4,
+                        "DIABETES": 9.0,
+                        "HIGHCHOL": 27.4,
+                        "KIDNEY": 2.4,
+                        "OBESITY": 29.6,
+                        "STROKE": 2.7,
+                        "TEETHLOST": 12.8
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 25.7,
+                        "BPHIGH": 30.5,
+                        "CANCER": 6.6,
+                        "CASTHMA": 10.7,
+                        "CHD": 5.1,
+                        "COPD": 6.8,
+                        "DIABETES": 8.5,
+                        "HIGHCHOL": 27.5,
+                        "KIDNEY": 2.3,
+                        "OBESITY": 29.6,
+                        "STROKE": 2.5,
+                        "TEETHLOST": 12.8
+                    }
+                ]
+            },
+            "sites": [
+                "44-003-0002"
+            ]
+        },
+        "Providence": {
+            "fips": "44007",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 25.1,
+                        "BPHIGH": 32.0,
+                        "CANCER": 6.3,
+                        "CASTHMA": 11.8,
+                        "CHD": 6.1,
+                        "COPD": 6.9,
+                        "DIABETES": 10.7,
+                        "HIGHCHOL": 29.0,
+                        "KIDNEY": 2.8,
+                        "OBESITY": 29.6,
+                        "STROKE": 3.1,
+                        "TEETHLOST": 15.1
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 23.9,
+                        "BPHIGH": 30.4,
+                        "CANCER": 6.2,
+                        "CASTHMA": 11.6,
+                        "CHD": 5.7,
+                        "COPD": 6.8,
+                        "DIABETES": 10.7,
+                        "HIGHCHOL": 27.9,
+                        "KIDNEY": 2.8,
+                        "OBESITY": 32.8,
+                        "STROKE": 2.9,
+                        "TEETHLOST": 15.1
+                    }
+                ]
+            },
+            "sites": [
+                "44-007-1010"
+            ]
+        },
+        "Washington": {
+            "fips": "44009",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 25.3,
+                        "BPHIGH": 27.1,
+                        "CANCER": 7.0,
+                        "CASTHMA": 11.0,
+                        "CHD": 5.4,
+                        "COPD": 6.1,
+                        "DIABETES": 7.7,
+                        "HIGHCHOL": 27.4,
+                        "KIDNEY": 2.3,
+                        "OBESITY": 25.6,
+                        "STROKE": 2.5,
+                        "TEETHLOST": 10.0
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 23.4,
+                        "BPHIGH": 27.2,
+                        "CANCER": 6.9,
+                        "CASTHMA": 10.6,
+                        "CHD": 4.9,
+                        "COPD": 5.9,
+                        "DIABETES": 7.4,
+                        "HIGHCHOL": 26.5,
+                        "KIDNEY": 2.3,
+                        "OBESITY": 25.6,
+                        "STROKE": 2.4,
+                        "TEETHLOST": 10.0
+                    }
+                ]
+            },
+            "sites": [
+                "44-009-0007"
+            ]
+        }
+    }
+}

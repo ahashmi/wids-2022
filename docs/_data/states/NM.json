@@ -1,0 +1,171 @@
+{
+    "specs": {
+        "epa_n": 4406,
+        "cdc_n": 66
+    },
+    "counties": {
+        "Bernalillo": {
+            "fips": "35001",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 23.3,
+                        "BPHIGH": 26.3,
+                        "CANCER": 5.8,
+                        "CASTHMA": 9.7,
+                        "CHD": 5.5,
+                        "COPD": 5.4,
+                        "DIABETES": 10.3,
+                        "HIGHCHOL": 27.5,
+                        "KIDNEY": 2.9,
+                        "OBESITY": 27.4,
+                        "STROKE": 2.9,
+                        "TEETHLOST": 14.0
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 21.3,
+                        "BPHIGH": 25.5,
+                        "CANCER": 5.6,
+                        "CASTHMA": 9.0,
+                        "CHD": 4.7,
+                        "COPD": 4.6,
+                        "DIABETES": 10.3,
+                        "HIGHCHOL": 25.5,
+                        "KIDNEY": 3.1,
+                        "OBESITY": 28.6,
+                        "STROKE": 2.7,
+                        "TEETHLOST": 14.0
+                    }
+                ]
+            },
+            "sites": [
+                "35-001-0023",
+                "35-001-0029",
+                "35-001-1012"
+            ]
+        },
+        "Dona Ana": {
+            "fips": "35013",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 22.8,
+                        "BPHIGH": 30.8,
+                        "CANCER": 5.4,
+                        "CASTHMA": 9.8,
+                        "CHD": 6.3,
+                        "COPD": 6.1,
+                        "DIABETES": 12.3,
+                        "HIGHCHOL": 28.0,
+                        "KIDNEY": 3.4,
+                        "OBESITY": 33.7,
+                        "STROKE": 3.4,
+                        "TEETHLOST": 15.9
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 20.9,
+                        "BPHIGH": 30.0,
+                        "CANCER": 5.3,
+                        "CASTHMA": 9.2,
+                        "CHD": 5.7,
+                        "COPD": 5.4,
+                        "DIABETES": 13.2,
+                        "HIGHCHOL": 28.1,
+                        "KIDNEY": 3.6,
+                        "OBESITY": 34.7,
+                        "STROKE": 3.2,
+                        "TEETHLOST": 15.9
+                    }
+                ]
+            },
+            "sites": [
+                "35-013-0021",
+                "35-013-0022"
+            ]
+        },
+        "Lea": {
+            "fips": "35025",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 24.0,
+                        "BPHIGH": 31.9,
+                        "CANCER": 5.7,
+                        "CASTHMA": 9.8,
+                        "CHD": 6.7,
+                        "COPD": 6.5,
+                        "DIABETES": 11.7,
+                        "HIGHCHOL": 29.1,
+                        "KIDNEY": 3.2,
+                        "OBESITY": 37.1,
+                        "STROKE": 3.4,
+                        "TEETHLOST": 18.1
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 22.7,
+                        "BPHIGH": 32.8,
+                        "CANCER": 5.4,
+                        "CASTHMA": 9.2,
+                        "CHD": 5.8,
+                        "COPD": 5.7,
+                        "DIABETES": 12.5,
+                        "HIGHCHOL": 27.9,
+                        "KIDNEY": 3.3,
+                        "OBESITY": 36.3,
+                        "STROKE": 3.1,
+                        "TEETHLOST": 18.1
+                    }
+                ]
+            },
+            "sites": [
+                "35-025-0008"
+            ]
+        },
+        "Santa Fe": {
+            "fips": "35049",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 21.7,
+                        "BPHIGH": 22.6,
+                        "CANCER": 6.0,
+                        "CASTHMA": 9.0,
+                        "CHD": 5.1,
+                        "COPD": 4.9,
+                        "DIABETES": 8.8,
+                        "HIGHCHOL": 25.8,
+                        "KIDNEY": 2.7,
+                        "OBESITY": 23.5,
+                        "STROKE": 2.7,
+                        "TEETHLOST": 12.4
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 19.5,
+                        "BPHIGH": 23.5,
+                        "CANCER": 5.6,
+                        "CASTHMA": 8.0,
+                        "CHD": 4.5,
+                        "COPD": 4.2,
+                        "DIABETES": 9.0,
+                        "HIGHCHOL": 24.7,
+                        "KIDNEY": 2.9,
+                        "OBESITY": 24.9,
+                        "STROKE": 2.5,
+                        "TEETHLOST": 12.4
+                    }
+                ]
+            },
+            "sites": [
+                "35-049-0021"
+            ]
+        }
+    }
+}

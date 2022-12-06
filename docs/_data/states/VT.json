@@ -1,0 +1,128 @@
+{
+    "specs": {
+        "epa_n": 2109,
+        "cdc_n": 28
+    },
+    "counties": {
+        "Bennington": {
+            "fips": "50003",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 25.5,
+                        "BPHIGH": 26.4,
+                        "CANCER": 6.9,
+                        "CASTHMA": 11.3,
+                        "CHD": 5.6,
+                        "COPD": 6.2,
+                        "DIABETES": 8.5,
+                        "HIGHCHOL": 25.0,
+                        "KIDNEY": 2.5,
+                        "OBESITY": 28.1,
+                        "STROKE": 2.8,
+                        "TEETHLOST": 16.0
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 23.4,
+                        "BPHIGH": 24.3,
+                        "CANCER": 6.7,
+                        "CASTHMA": 11.1,
+                        "CHD": 5.4,
+                        "COPD": 6.5,
+                        "DIABETES": 7.4,
+                        "HIGHCHOL": 23.6,
+                        "KIDNEY": 2.5,
+                        "OBESITY": 25.7,
+                        "STROKE": 2.8,
+                        "TEETHLOST": 16.0
+                    }
+                ]
+            },
+            "sites": [
+                "50-003-0004"
+            ]
+        },
+        "Chittenden": {
+            "fips": "50007",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 23.7,
+                        "BPHIGH": 24.4,
+                        "CANCER": 6.6,
+                        "CASTHMA": 10.5,
+                        "CHD": 4.8,
+                        "COPD": 5.2,
+                        "DIABETES": 7.3,
+                        "HIGHCHOL": 24.2,
+                        "KIDNEY": 2.3,
+                        "OBESITY": 23.6,
+                        "STROKE": 2.4,
+                        "TEETHLOST": 11.0
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 22.5,
+                        "BPHIGH": 24.2,
+                        "CANCER": 6.4,
+                        "CASTHMA": 9.6,
+                        "CHD": 4.7,
+                        "COPD": 5.2,
+                        "DIABETES": 6.6,
+                        "HIGHCHOL": 24.6,
+                        "KIDNEY": 2.3,
+                        "OBESITY": 23.1,
+                        "STROKE": 2.5,
+                        "TEETHLOST": 11.0
+                    }
+                ]
+            },
+            "sites": [
+                "50-007-0007"
+            ]
+        },
+        "Rutland": {
+            "fips": "50021",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 26.3,
+                        "BPHIGH": 26.9,
+                        "CANCER": 6.5,
+                        "CASTHMA": 11.0,
+                        "CHD": 5.3,
+                        "COPD": 6.3,
+                        "DIABETES": 7.8,
+                        "HIGHCHOL": 24.8,
+                        "KIDNEY": 2.4,
+                        "OBESITY": 31.4,
+                        "STROKE": 2.7,
+                        "TEETHLOST": 14.6
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 25.4,
+                        "BPHIGH": 26.8,
+                        "CANCER": 6.5,
+                        "CASTHMA": 10.7,
+                        "CHD": 5.3,
+                        "COPD": 6.4,
+                        "DIABETES": 7.4,
+                        "HIGHCHOL": 25.3,
+                        "KIDNEY": 2.4,
+                        "OBESITY": 32.4,
+                        "STROKE": 2.8,
+                        "TEETHLOST": 14.6
+                    }
+                ]
+            },
+            "sites": [
+                "50-021-0002"
+            ]
+        }
+    }
+}

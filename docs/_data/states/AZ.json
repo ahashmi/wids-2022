@@ -1,0 +1,175 @@
+{
+    "specs": {
+        "epa_n": 7160,
+        "cdc_n": 30
+    },
+    "counties": {
+        "La Paz": {
+            "fips": "4012",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 26.1,
+                        "BPHIGH": 31.3,
+                        "CANCER": 6.3,
+                        "CASTHMA": 11.4,
+                        "CHD": 7.8,
+                        "COPD": 8.6,
+                        "DIABETES": 12.0,
+                        "HIGHCHOL": 29.0,
+                        "KIDNEY": 3.5,
+                        "OBESITY": 36.8,
+                        "STROKE": 4.0,
+                        "TEETHLOST": 21.3
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 22.4,
+                        "BPHIGH": 31.1,
+                        "CANCER": 6.1,
+                        "CASTHMA": 10.2,
+                        "CHD": 6.8,
+                        "COPD": 7.9,
+                        "DIABETES": 12.4,
+                        "HIGHCHOL": 28.8,
+                        "KIDNEY": 3.6,
+                        "OBESITY": 37.0,
+                        "STROKE": 3.7,
+                        "TEETHLOST": 21.3
+                    }
+                ]
+            },
+            "sites": [
+                "04-012-8000"
+            ]
+        },
+        "Maricopa": {
+            "fips": "4013",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 21.7,
+                        "BPHIGH": 27.9,
+                        "CANCER": 6.2,
+                        "CASTHMA": 10.0,
+                        "CHD": 5.8,
+                        "COPD": 6.2,
+                        "DIABETES": 8.9,
+                        "HIGHCHOL": 29.0,
+                        "KIDNEY": 2.9,
+                        "OBESITY": 30.0,
+                        "STROKE": 3.0,
+                        "TEETHLOST": 12.7
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 20.0,
+                        "BPHIGH": 29.3,
+                        "CANCER": 6.2,
+                        "CASTHMA": 9.5,
+                        "CHD": 5.4,
+                        "COPD": 5.6,
+                        "DIABETES": 10.2,
+                        "HIGHCHOL": 29.1,
+                        "KIDNEY": 3.2,
+                        "OBESITY": 31.0,
+                        "STROKE": 2.8,
+                        "TEETHLOST": 12.7
+                    }
+                ]
+            },
+            "sites": [
+                "04-013-0019",
+                "04-013-1003",
+                "04-013-1004",
+                "04-013-2001",
+                "04-013-4003",
+                "04-013-4005",
+                "04-013-7020",
+                "04-013-9997"
+            ]
+        },
+        "Pima": {
+            "fips": "4019",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 22.7,
+                        "BPHIGH": 27.4,
+                        "CANCER": 6.3,
+                        "CASTHMA": 10.4,
+                        "CHD": 6.3,
+                        "COPD": 6.1,
+                        "DIABETES": 9.4,
+                        "HIGHCHOL": 29.2,
+                        "KIDNEY": 3.0,
+                        "OBESITY": 29.7,
+                        "STROKE": 3.0,
+                        "TEETHLOST": 13.2
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 20.1,
+                        "BPHIGH": 28.0,
+                        "CANCER": 5.9,
+                        "CASTHMA": 9.5,
+                        "CHD": 5.2,
+                        "COPD": 5.5,
+                        "DIABETES": 9.5,
+                        "HIGHCHOL": 29.0,
+                        "KIDNEY": 3.1,
+                        "OBESITY": 30.8,
+                        "STROKE": 2.8,
+                        "TEETHLOST": 13.2
+                    }
+                ]
+            },
+            "sites": [
+                "04-019-1028"
+            ]
+        },
+        "Yuma": {
+            "fips": "4027",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 23.8,
+                        "BPHIGH": 30.4,
+                        "CANCER": 5.7,
+                        "CASTHMA": 10.1,
+                        "CHD": 7.1,
+                        "COPD": 7.1,
+                        "DIABETES": 11.8,
+                        "HIGHCHOL": 30.3,
+                        "KIDNEY": 3.4,
+                        "OBESITY": 38.5,
+                        "STROKE": 3.6,
+                        "TEETHLOST": 17.6
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 20.4,
+                        "BPHIGH": 32.2,
+                        "CANCER": 5.6,
+                        "CASTHMA": 9.5,
+                        "CHD": 6.2,
+                        "COPD": 6.4,
+                        "DIABETES": 13.4,
+                        "HIGHCHOL": 31.6,
+                        "KIDNEY": 3.7,
+                        "OBESITY": 38.4,
+                        "STROKE": 3.3,
+                        "TEETHLOST": 17.6
+                    }
+                ]
+            },
+            "sites": [
+                "04-027-8011"
+            ]
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "specs": {
+        "epa_n": 1329,
+        "cdc_n": 10
+    },
+    "counties": {
+        "Honolulu": {
+            "fips": "15003",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 19.0,
+                        "BPHIGH": 28.9,
+                        "CANCER": 5.2,
+                        "CASTHMA": 9.1,
+                        "CHD": 5.1,
+                        "COPD": 4.1,
+                        "DIABETES": 11.0,
+                        "HIGHCHOL": 29.0,
+                        "KIDNEY": 2.6,
+                        "OBESITY": 24.7,
+                        "STROKE": 2.8,
+                        "TEETHLOST": 7.4
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 18.2,
+                        "BPHIGH": 28.1,
+                        "CANCER": 5.2,
+                        "CASTHMA": 9.2,
+                        "CHD": 4.2,
+                        "COPD": 3.9,
+                        "DIABETES": 9.7,
+                        "HIGHCHOL": 27.1,
+                        "KIDNEY": 2.4,
+                        "OBESITY": 25.4,
+                        "STROKE": 2.7,
+                        "TEETHLOST": 7.4
+                    }
+                ]
+            },
+            "sites": [
+                "15-003-0010",
+                "15-003-1004"
+            ]
+        }
+    }
+}

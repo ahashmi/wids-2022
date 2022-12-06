@@ -1,0 +1,48 @@
+{
+    "specs": {
+        "epa_n": 693,
+        "cdc_n": 186
+    },
+    "counties": {
+        "Douglas": {
+            "fips": "31055",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 23.0,
+                        "BPHIGH": 29.9,
+                        "CANCER": 6.4,
+                        "CASTHMA": 9.0,
+                        "CHD": 5.2,
+                        "COPD": 5.7,
+                        "DIABETES": 9.8,
+                        "HIGHCHOL": 29.0,
+                        "KIDNEY": 2.5,
+                        "OBESITY": 32.7,
+                        "STROKE": 2.8,
+                        "TEETHLOST": 11.0
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 20.8,
+                        "BPHIGH": 28.9,
+                        "CANCER": 6.1,
+                        "CASTHMA": 8.5,
+                        "CHD": 5.1,
+                        "COPD": 5.1,
+                        "DIABETES": 9.9,
+                        "HIGHCHOL": 27.4,
+                        "KIDNEY": 2.5,
+                        "OBESITY": 33.0,
+                        "STROKE": 2.8,
+                        "TEETHLOST": 11.0
+                    }
+                ]
+            },
+            "sites": [
+                "31-055-0019"
+            ]
+        }
+    }
+}

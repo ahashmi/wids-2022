@@ -1,0 +1,209 @@
+{
+    "specs": {
+        "epa_n": 3788,
+        "cdc_n": 20
+    },
+    "counties": {
+        "Belknap": {
+            "fips": "33001",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 26.8,
+                        "BPHIGH": 27.2,
+                        "CANCER": 6.5,
+                        "CASTHMA": 10.3,
+                        "CHD": 5.8,
+                        "COPD": 6.9,
+                        "DIABETES": 8.5,
+                        "HIGHCHOL": 27.3,
+                        "KIDNEY": 2.3,
+                        "OBESITY": 29.8,
+                        "STROKE": 2.6,
+                        "TEETHLOST": 12.5
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 21.9,
+                        "BPHIGH": 28.3,
+                        "CANCER": 6.8,
+                        "CASTHMA": 10.2,
+                        "CHD": 5.1,
+                        "COPD": 5.8,
+                        "DIABETES": 7.6,
+                        "HIGHCHOL": 27.4,
+                        "KIDNEY": 2.3,
+                        "OBESITY": 30.3,
+                        "STROKE": 2.6,
+                        "TEETHLOST": 12.5
+                    }
+                ]
+            },
+            "sites": [
+                "33-001-2004"
+            ]
+        },
+        "Cheshire": {
+            "fips": "33005",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 25.8,
+                        "BPHIGH": 28.0,
+                        "CANCER": 6.5,
+                        "CASTHMA": 10.0,
+                        "CHD": 5.6,
+                        "COPD": 6.9,
+                        "DIABETES": 8.6,
+                        "HIGHCHOL": 26.2,
+                        "KIDNEY": 2.4,
+                        "OBESITY": 32.0,
+                        "STROKE": 2.7,
+                        "TEETHLOST": 14.3
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 24.8,
+                        "BPHIGH": 26.6,
+                        "CANCER": 6.5,
+                        "CASTHMA": 10.6,
+                        "CHD": 5.0,
+                        "COPD": 6.1,
+                        "DIABETES": 7.8,
+                        "HIGHCHOL": 23.9,
+                        "KIDNEY": 2.3,
+                        "OBESITY": 30.3,
+                        "STROKE": 2.6,
+                        "TEETHLOST": 14.3
+                    }
+                ]
+            },
+            "sites": [
+                "33-005-0007"
+            ]
+        },
+        "Grafton": {
+            "fips": "33009",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 24.0,
+                        "BPHIGH": 25.9,
+                        "CANCER": 6.4,
+                        "CASTHMA": 10.2,
+                        "CHD": 5.4,
+                        "COPD": 6.5,
+                        "DIABETES": 8.0,
+                        "HIGHCHOL": 27.5,
+                        "KIDNEY": 2.4,
+                        "OBESITY": 27.0,
+                        "STROKE": 2.6,
+                        "TEETHLOST": 12.4
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 22.3,
+                        "BPHIGH": 24.8,
+                        "CANCER": 6.9,
+                        "CASTHMA": 10.1,
+                        "CHD": 5.0,
+                        "COPD": 5.9,
+                        "DIABETES": 7.6,
+                        "HIGHCHOL": 25.6,
+                        "KIDNEY": 2.4,
+                        "OBESITY": 27.2,
+                        "STROKE": 2.6,
+                        "TEETHLOST": 12.4
+                    }
+                ]
+            },
+            "sites": [
+                "33-009-0010"
+            ]
+        },
+        "Hillsborough": {
+            "fips": "33011",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 25.6,
+                        "BPHIGH": 26.7,
+                        "CANCER": 6.5,
+                        "CASTHMA": 10.6,
+                        "CHD": 5.2,
+                        "COPD": 6.4,
+                        "DIABETES": 8.6,
+                        "HIGHCHOL": 27.5,
+                        "KIDNEY": 2.3,
+                        "OBESITY": 28.7,
+                        "STROKE": 2.4,
+                        "TEETHLOST": 11.7
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 22.1,
+                        "BPHIGH": 27.3,
+                        "CANCER": 6.6,
+                        "CASTHMA": 10.7,
+                        "CHD": 4.8,
+                        "COPD": 5.5,
+                        "DIABETES": 8.0,
+                        "HIGHCHOL": 26.4,
+                        "KIDNEY": 2.4,
+                        "OBESITY": 32.2,
+                        "STROKE": 2.5,
+                        "TEETHLOST": 11.7
+                    }
+                ]
+            },
+            "sites": [
+                "33-011-5001"
+            ]
+        },
+        "Rockingham": {
+            "fips": "33015",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 23.5,
+                        "BPHIGH": 27.4,
+                        "CANCER": 6.6,
+                        "CASTHMA": 9.7,
+                        "CHD": 5.2,
+                        "COPD": 5.9,
+                        "DIABETES": 7.6,
+                        "HIGHCHOL": 27.6,
+                        "KIDNEY": 2.2,
+                        "OBESITY": 28.0,
+                        "STROKE": 2.3,
+                        "TEETHLOST": 10.4
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 21.5,
+                        "BPHIGH": 27.1,
+                        "CANCER": 6.6,
+                        "CASTHMA": 9.5,
+                        "CHD": 4.5,
+                        "COPD": 4.9,
+                        "DIABETES": 6.9,
+                        "HIGHCHOL": 27.2,
+                        "KIDNEY": 2.2,
+                        "OBESITY": 27.4,
+                        "STROKE": 2.3,
+                        "TEETHLOST": 10.4
+                    }
+                ]
+            },
+            "sites": [
+                "33-015-0014",
+                "33-015-0018"
+            ]
+        }
+    }
+}

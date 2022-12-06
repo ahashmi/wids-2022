@@ -1,0 +1,88 @@
+{
+    "specs": {
+        "epa_n": 849,
+        "cdc_n": 78
+    },
+    "counties": {
+        "King": {
+            "fips": "53033",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 19.4,
+                        "BPHIGH": 24.0,
+                        "CANCER": 6.3,
+                        "CASTHMA": 8.9,
+                        "CHD": 4.7,
+                        "COPD": 4.0,
+                        "DIABETES": 8.4,
+                        "HIGHCHOL": 26.1,
+                        "KIDNEY": 2.4,
+                        "OBESITY": 23.0,
+                        "STROKE": 2.4,
+                        "TEETHLOST": 7.0
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 19.6,
+                        "BPHIGH": 26.3,
+                        "CANCER": 6.3,
+                        "CASTHMA": 8.8,
+                        "CHD": 4.2,
+                        "COPD": 3.9,
+                        "DIABETES": 7.8,
+                        "HIGHCHOL": 27.5,
+                        "KIDNEY": 2.3,
+                        "OBESITY": 22.3,
+                        "STROKE": 2.4,
+                        "TEETHLOST": 7.0
+                    }
+                ]
+            },
+            "sites": [
+                "53-033-0080"
+            ]
+        },
+        "Skagit": {
+            "fips": "53057",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 23.5,
+                        "BPHIGH": 27.4,
+                        "CANCER": 6.3,
+                        "CASTHMA": 10.1,
+                        "CHD": 5.8,
+                        "COPD": 5.7,
+                        "DIABETES": 8.6,
+                        "HIGHCHOL": 27.9,
+                        "KIDNEY": 2.6,
+                        "OBESITY": 28.9,
+                        "STROKE": 2.9,
+                        "TEETHLOST": 12.6
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 22.9,
+                        "BPHIGH": 25.2,
+                        "CANCER": 6.4,
+                        "CASTHMA": 9.9,
+                        "CHD": 5.3,
+                        "COPD": 5.6,
+                        "DIABETES": 9.1,
+                        "HIGHCHOL": 28.9,
+                        "KIDNEY": 2.6,
+                        "OBESITY": 30.0,
+                        "STROKE": 2.9,
+                        "TEETHLOST": 12.6
+                    }
+                ]
+            },
+            "sites": [
+                "53-057-0011"
+            ]
+        }
+    }
+}

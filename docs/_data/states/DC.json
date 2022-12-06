@@ -1,0 +1,49 @@
+{
+    "specs": {
+        "epa_n": 1409,
+        "cdc_n": 2
+    },
+    "counties": {
+        "District of Columbia": {
+            "fips": "11001",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 21.1,
+                        "BPHIGH": 30.0,
+                        "CANCER": 6.2,
+                        "CASTHMA": 10.7,
+                        "CHD": 4.6,
+                        "COPD": 5.3,
+                        "DIABETES": 9.1,
+                        "HIGHCHOL": 28.1,
+                        "KIDNEY": 2.9,
+                        "OBESITY": 25.5,
+                        "STROKE": 3.4,
+                        "TEETHLOST": 10.3
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 19.5,
+                        "BPHIGH": 30.0,
+                        "CANCER": 6.0,
+                        "CASTHMA": 10.1,
+                        "CHD": 4.8,
+                        "COPD": 4.7,
+                        "DIABETES": 9.8,
+                        "HIGHCHOL": 27.7,
+                        "KIDNEY": 2.8,
+                        "OBESITY": 27.5,
+                        "STROKE": 3.2,
+                        "TEETHLOST": 10.3
+                    }
+                ]
+            },
+            "sites": [
+                "11-001-0041",
+                "11-001-0043"
+            ]
+        }
+    }
+}

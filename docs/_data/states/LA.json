@@ -1,0 +1,248 @@
+{
+    "specs": {
+        "epa_n": 2138,
+        "cdc_n": 128
+    },
+    "counties": {
+        "Calcasieu": {
+            "fips": "22019",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 25.4,
+                        "BPHIGH": 36.8,
+                        "CANCER": 6.2,
+                        "CASTHMA": 9.5,
+                        "CHD": 7.1,
+                        "COPD": 8.6,
+                        "DIABETES": 11.8,
+                        "HIGHCHOL": 32.1,
+                        "KIDNEY": 3.0,
+                        "OBESITY": 39.9,
+                        "STROKE": 3.7,
+                        "TEETHLOST": 17.9
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 26.0,
+                        "BPHIGH": 38.1,
+                        "CANCER": 6.4,
+                        "CASTHMA": 9.8,
+                        "CHD": 6.2,
+                        "COPD": 7.5,
+                        "DIABETES": 11.1,
+                        "HIGHCHOL": 30.5,
+                        "KIDNEY": 3.1,
+                        "OBESITY": 37.5,
+                        "STROKE": 3.6,
+                        "TEETHLOST": 17.9
+                    }
+                ]
+            },
+            "sites": [
+                "22-019-0009"
+            ]
+        },
+        "East Baton Rouge": {
+            "fips": "22033",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 26.5,
+                        "BPHIGH": 39.9,
+                        "CANCER": 6.2,
+                        "CASTHMA": 9.1,
+                        "CHD": 6.5,
+                        "COPD": 7.0,
+                        "DIABETES": 12.4,
+                        "HIGHCHOL": 33.6,
+                        "KIDNEY": 3.1,
+                        "OBESITY": 39.1,
+                        "STROKE": 3.7,
+                        "TEETHLOST": 16.2
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 23.9,
+                        "BPHIGH": 38.8,
+                        "CANCER": 6.1,
+                        "CASTHMA": 9.0,
+                        "CHD": 5.9,
+                        "COPD": 6.2,
+                        "DIABETES": 11.7,
+                        "HIGHCHOL": 30.2,
+                        "KIDNEY": 3.2,
+                        "OBESITY": 36.1,
+                        "STROKE": 3.7,
+                        "TEETHLOST": 16.2
+                    }
+                ]
+            },
+            "sites": [
+                "22-033-0009"
+            ]
+        },
+        "Jefferson": {
+            "fips": "22051",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 25.6,
+                        "BPHIGH": 36.5,
+                        "CANCER": 6.1,
+                        "CASTHMA": 8.9,
+                        "CHD": 6.6,
+                        "COPD": 7.6,
+                        "DIABETES": 12.2,
+                        "HIGHCHOL": 32.0,
+                        "KIDNEY": 3.0,
+                        "OBESITY": 34.5,
+                        "STROKE": 3.4,
+                        "TEETHLOST": 15.0
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 23.6,
+                        "BPHIGH": 34.8,
+                        "CANCER": 6.2,
+                        "CASTHMA": 8.8,
+                        "CHD": 5.9,
+                        "COPD": 6.5,
+                        "DIABETES": 11.2,
+                        "HIGHCHOL": 31.9,
+                        "KIDNEY": 3.1,
+                        "OBESITY": 35.6,
+                        "STROKE": 3.3,
+                        "TEETHLOST": 15.0
+                    }
+                ]
+            },
+            "sites": [
+                "22-051-1001"
+            ]
+        },
+        "Lafayette": {
+            "fips": "22055",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 25.5,
+                        "BPHIGH": 34.3,
+                        "CANCER": 6.4,
+                        "CASTHMA": 9.2,
+                        "CHD": 6.8,
+                        "COPD": 7.7,
+                        "DIABETES": 11.7,
+                        "HIGHCHOL": 31.0,
+                        "KIDNEY": 2.9,
+                        "OBESITY": 30.6,
+                        "STROKE": 3.4,
+                        "TEETHLOST": 15.7
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 23.7,
+                        "BPHIGH": 34.5,
+                        "CANCER": 6.4,
+                        "CASTHMA": 9.2,
+                        "CHD": 6.1,
+                        "COPD": 6.8,
+                        "DIABETES": 10.8,
+                        "HIGHCHOL": 31.4,
+                        "KIDNEY": 3.0,
+                        "OBESITY": 37.0,
+                        "STROKE": 3.4,
+                        "TEETHLOST": 15.7
+                    }
+                ]
+            },
+            "sites": [
+                "22-055-0007"
+            ]
+        },
+        "Ouachita": {
+            "fips": "22073",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 26.6,
+                        "BPHIGH": 43.3,
+                        "CANCER": 6.2,
+                        "CASTHMA": 9.9,
+                        "CHD": 7.5,
+                        "COPD": 9.0,
+                        "DIABETES": 13.1,
+                        "HIGHCHOL": 31.9,
+                        "KIDNEY": 3.3,
+                        "OBESITY": 41.8,
+                        "STROKE": 4.1,
+                        "TEETHLOST": 20.3
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 26.3,
+                        "BPHIGH": 39.1,
+                        "CANCER": 6.4,
+                        "CASTHMA": 10.1,
+                        "CHD": 7.1,
+                        "COPD": 8.4,
+                        "DIABETES": 12.7,
+                        "HIGHCHOL": 34.0,
+                        "KIDNEY": 3.5,
+                        "OBESITY": 37.0,
+                        "STROKE": 4.1,
+                        "TEETHLOST": 20.3
+                    }
+                ]
+            },
+            "sites": [
+                "22-073-0004"
+            ]
+        },
+        "West Baton Rouge": {
+            "fips": "22121",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 25.8,
+                        "BPHIGH": 38.5,
+                        "CANCER": 6.2,
+                        "CASTHMA": 9.6,
+                        "CHD": 6.8,
+                        "COPD": 7.9,
+                        "DIABETES": 12.2,
+                        "HIGHCHOL": 31.5,
+                        "KIDNEY": 3.0,
+                        "OBESITY": 35.5,
+                        "STROKE": 3.7,
+                        "TEETHLOST": 18.8
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 23.6,
+                        "BPHIGH": 37.1,
+                        "CANCER": 6.3,
+                        "CASTHMA": 9.4,
+                        "CHD": 5.9,
+                        "COPD": 6.7,
+                        "DIABETES": 11.3,
+                        "HIGHCHOL": 31.3,
+                        "KIDNEY": 3.0,
+                        "OBESITY": 37.0,
+                        "STROKE": 3.6,
+                        "TEETHLOST": 18.8
+                    }
+                ]
+            },
+            "sites": [
+                "22-121-0001"
+            ]
+        }
+    }
+}

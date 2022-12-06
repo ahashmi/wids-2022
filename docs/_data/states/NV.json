@@ -1,0 +1,139 @@
+{
+    "specs": {
+        "epa_n": 7783,
+        "cdc_n": 34
+    },
+    "counties": {
+        "Clark": {
+            "fips": "32003",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 21.9,
+                        "BPHIGH": 31.0,
+                        "CANCER": 5.9,
+                        "CASTHMA": 8.5,
+                        "CHD": 6.6,
+                        "COPD": 7.0,
+                        "DIABETES": 11.0,
+                        "HIGHCHOL": 28.8,
+                        "KIDNEY": 2.9,
+                        "OBESITY": 31.3,
+                        "STROKE": 3.2,
+                        "TEETHLOST": 15.3
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 19.2,
+                        "BPHIGH": 29.6,
+                        "CANCER": 5.5,
+                        "CASTHMA": 8.9,
+                        "CHD": 5.7,
+                        "COPD": 6.4,
+                        "DIABETES": 10.7,
+                        "HIGHCHOL": 29.3,
+                        "KIDNEY": 2.9,
+                        "OBESITY": 30.1,
+                        "STROKE": 3.1,
+                        "TEETHLOST": 15.3
+                    }
+                ]
+            },
+            "sites": [
+                "32-003-0043",
+                "32-003-0075",
+                "32-003-0298",
+                "32-003-0540",
+                "32-003-1019",
+                "32-003-0044",
+                "32-003-0071",
+                "32-003-0073"
+            ]
+        },
+        "Washoe": {
+            "fips": "32031",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 23.9,
+                        "BPHIGH": 28.1,
+                        "CANCER": 6.1,
+                        "CASTHMA": 9.0,
+                        "CHD": 6.2,
+                        "COPD": 7.0,
+                        "DIABETES": 8.8,
+                        "HIGHCHOL": 30.1,
+                        "KIDNEY": 2.7,
+                        "OBESITY": 25.5,
+                        "STROKE": 2.9,
+                        "TEETHLOST": 14.9
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 20.1,
+                        "BPHIGH": 26.8,
+                        "CANCER": 6.0,
+                        "CASTHMA": 9.7,
+                        "CHD": 5.2,
+                        "COPD": 5.9,
+                        "DIABETES": 8.6,
+                        "HIGHCHOL": 30.7,
+                        "KIDNEY": 2.7,
+                        "OBESITY": 30.2,
+                        "STROKE": 2.8,
+                        "TEETHLOST": 14.9
+                    }
+                ]
+            },
+            "sites": [
+                "32-031-0016",
+                "32-031-0025",
+                "32-031-1005",
+                "32-031-1007",
+                "32-031-0031"
+            ]
+        },
+        "Carson City": {
+            "fips": "32510",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 23.6,
+                        "BPHIGH": 27.7,
+                        "CANCER": 6.3,
+                        "CASTHMA": 9.2,
+                        "CHD": 6.7,
+                        "COPD": 7.6,
+                        "DIABETES": 10.2,
+                        "HIGHCHOL": 30.1,
+                        "KIDNEY": 2.9,
+                        "OBESITY": 36.0,
+                        "STROKE": 3.1,
+                        "TEETHLOST": 17.2
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 20.5,
+                        "BPHIGH": 29.0,
+                        "CANCER": 6.2,
+                        "CASTHMA": 9.0,
+                        "CHD": 5.7,
+                        "COPD": 6.6,
+                        "DIABETES": 9.5,
+                        "HIGHCHOL": 28.2,
+                        "KIDNEY": 2.9,
+                        "OBESITY": 31.2,
+                        "STROKE": 3.0,
+                        "TEETHLOST": 17.2
+                    }
+                ]
+            },
+            "sites": [
+                "32-510-0020"
+            ]
+        }
+    }
+}

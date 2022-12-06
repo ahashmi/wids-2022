@@ -1,0 +1,48 @@
+{
+    "specs": {
+        "epa_n": 222,
+        "cdc_n": 88
+    },
+    "counties": {
+        "Ada": {
+            "fips": "16001",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 21.8,
+                        "BPHIGH": 27.1,
+                        "CANCER": 6.6,
+                        "CASTHMA": 8.6,
+                        "CHD": 5.4,
+                        "COPD": 5.1,
+                        "DIABETES": 8.0,
+                        "HIGHCHOL": 26.3,
+                        "KIDNEY": 2.5,
+                        "OBESITY": 24.8,
+                        "STROKE": 2.6,
+                        "TEETHLOST": 10.2
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 21.0,
+                        "BPHIGH": 27.3,
+                        "CANCER": 6.4,
+                        "CASTHMA": 9.0,
+                        "CHD": 4.8,
+                        "COPD": 4.8,
+                        "DIABETES": 8.5,
+                        "HIGHCHOL": 26.8,
+                        "KIDNEY": 2.4,
+                        "OBESITY": 28.4,
+                        "STROKE": 2.6,
+                        "TEETHLOST": 10.2
+                    }
+                ]
+            },
+            "sites": [
+                "16-001-0010"
+            ]
+        }
+    }
+}

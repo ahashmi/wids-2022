@@ -1,0 +1,88 @@
+{
+    "specs": {
+        "epa_n": 1368,
+        "cdc_n": 32
+    },
+    "counties": {
+        "Cumberland": {
+            "fips": "23005",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 24.2,
+                        "BPHIGH": 25.6,
+                        "CANCER": 6.7,
+                        "CASTHMA": 10.4,
+                        "CHD": 5.4,
+                        "COPD": 5.4,
+                        "DIABETES": 7.4,
+                        "HIGHCHOL": 28.1,
+                        "KIDNEY": 2.3,
+                        "OBESITY": 24.8,
+                        "STROKE": 2.4,
+                        "TEETHLOST": 11.2
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 22.1,
+                        "BPHIGH": 26.7,
+                        "CANCER": 6.8,
+                        "CASTHMA": 10.7,
+                        "CHD": 5.1,
+                        "COPD": 6.0,
+                        "DIABETES": 6.8,
+                        "HIGHCHOL": 25.7,
+                        "KIDNEY": 2.3,
+                        "OBESITY": 25.3,
+                        "STROKE": 2.5,
+                        "TEETHLOST": 11.2
+                    }
+                ]
+            },
+            "sites": [
+                "23-005-0029"
+            ]
+        },
+        "Hancock": {
+            "fips": "23009",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 25.6,
+                        "BPHIGH": 25.6,
+                        "CANCER": 6.6,
+                        "CASTHMA": 11.3,
+                        "CHD": 6.0,
+                        "COPD": 6.5,
+                        "DIABETES": 8.0,
+                        "HIGHCHOL": 28.5,
+                        "KIDNEY": 2.5,
+                        "OBESITY": 30.4,
+                        "STROKE": 2.7,
+                        "TEETHLOST": 15.4
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 24.4,
+                        "BPHIGH": 26.9,
+                        "CANCER": 7.0,
+                        "CASTHMA": 10.3,
+                        "CHD": 5.7,
+                        "COPD": 7.1,
+                        "DIABETES": 7.3,
+                        "HIGHCHOL": 28.2,
+                        "KIDNEY": 2.4,
+                        "OBESITY": 31.7,
+                        "STROKE": 2.8,
+                        "TEETHLOST": 15.4
+                    }
+                ]
+            },
+            "sites": [
+                "23-009-0103"
+            ]
+        }
+    }
+}

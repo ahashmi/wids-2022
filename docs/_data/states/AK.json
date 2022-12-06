@@ -1,0 +1,48 @@
+{
+    "specs": {
+        "epa_n": 447,
+        "cdc_n": 58
+    },
+    "counties": {
+        "Fairbanks North Star": {
+            "fips": "2090",
+            "outcomes": {
+                "2018": [
+                    {
+                        "ARTHRITIS": 24.6,
+                        "BPHIGH": 30.6,
+                        "CANCER": 6.3,
+                        "CASTHMA": 8.8,
+                        "CHD": 5.6,
+                        "COPD": 5.7,
+                        "DIABETES": 8.5,
+                        "HIGHCHOL": 30.2,
+                        "KIDNEY": 2.5,
+                        "OBESITY": 30.8,
+                        "STROKE": 2.8,
+                        "TEETHLOST": 12.4
+                    }
+                ],
+                "2019": [
+                    {
+                        "ARTHRITIS": 23.7,
+                        "BPHIGH": 30.8,
+                        "CANCER": 6.3,
+                        "CASTHMA": 9.5,
+                        "CHD": 4.9,
+                        "COPD": 5.3,
+                        "DIABETES": 8.1,
+                        "HIGHCHOL": 27.3,
+                        "KIDNEY": 2.5,
+                        "OBESITY": 30.4,
+                        "STROKE": 2.8,
+                        "TEETHLOST": 12.4
+                    }
+                ]
+            },
+            "sites": [
+                "02-090-0034"
+            ]
+        }
+    }
+}
